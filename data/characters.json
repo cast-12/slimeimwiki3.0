@@ -20,7 +20,7 @@
         "MaxOutput": 150,
         "Town1": "Digsite for Defense Magigems +30%",
         "Town2": "  Ice Cream Cart +10%",
-        "Forces": "Forces": [
+        "Forces": [
             34,
             5,
             39
@@ -89,7 +89,7 @@
         "MaxOutput": 150,
         "Town1": "Sweets Shop +30%",
         "Town2": "  Digsite for Training Magigems +10%",
-        "Forces": "Forces": [
+        "Forces": [
             34,
             5,
             39
@@ -126,7 +126,7 @@
         "MaxOutput": 150,
         "Town1": "Digsite for Attack Magigems +30%",
         "Town2": "  Traditional Inn +10%",
-        "Forces": "Forces": [
+        "Forces": [
             34,
             5,
             39
@@ -164,7 +164,7 @@
         "MaxOutput": 300,
         "Town1": "Hamburger Stall +30%",
         "Town2": "  Japanese Style Tavern +10%",
-        "Forces": "Forces": [
+        "Forces": [
             34,
             5,
             39
@@ -232,7 +232,7 @@
         "MaxOutput": 150,
         "Town1": "Traditional Brewery +30%",
         "Town2": "  Digsite for Attack Magigems +10%",
-        "Forces": "Forces": [
+        "Forces": [
             34,
             5,
             39
@@ -269,7 +269,7 @@
         "MaxOutput": 150,
         "Town1": "Japanese Style Tavern +30%",
         "Town2": "  Digsite for Stamina Magigems +10%",
-        "Forces": "Forces": [
+        "Forces": [
             34,
             5,
             39
@@ -338,7 +338,7 @@
         "MaxOutput": 150,
         "Town1": "Tempest Wheel +30%",
         "Town2": "  Churros Stall +10%",
-        "Forces": "Forces": [
+        "Forces": [
             34,
             5,
             39
