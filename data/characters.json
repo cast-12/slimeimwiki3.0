@@ -1,4 +1,38 @@
 {
+           "Diablo9": {
+               "New": true,
+               "Octagram": false,
+               "Release": "10/28/2024",
+               "Name": "Diablo [Avatar of the Underworld]",
+               "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/1c6b0fd20e33dc16cf7465af8ebc543c.png?17301180494149?17301180494149",
+               "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/1c6b0fd20e33dc16cf7465af8ebc543c.png?17301180494149?17301180494149",
+               "Types": [
+                   "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementDark.png",
+                   "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
+               ],
+               "Rarity": 5,
+               "MinAtk": 596,
+               "MaxAtk": 4157,
+               "MinHp": 951,
+               "MaxHp": 8402,
+               "MinDef": 434,
+               "MaxDef": 2930,
+               "MinOutput": 60,
+               "MaxOutput": 150,
+               "Town1": "Digsite for Attack Magigems +30%",
+               "Town2": "Traditional Inn +10%",
+               "Forces": [],
+               "SecretType": "All",
+               "Secret": "Hades Explosion Lv.MAX:Unleashes an all-target dark magic attack for 150% normal damageIncreases weakness strike of Divine General Force characters including rearguard until the end of battle by 60% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
+               "EXSecret": "Hades Explosion Lv.MAX:Unleashes an all-target dark magic attack for 150% normal damageIncreases weakness strike of Divine General Force characters including rearguard until the end of battle by 120% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
+               "UnitType": "Battle Characters",
+               "Trait1": "Soul Combo - ATK UP (6★ Awaken x1):When you unleash a 6 combo attack with Soul of Skills, increases own ATK by 5% for the next turn (available in support formation)",
+               "Trait1A": "Soul Combo - ATK UP (6★ Awaken x3):When you unleash a 6 combo attack with Soul of Skills, increases own ATK by 8% for the next turn (available in support formation)",
+               "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot. Increases synergy power by 12%",
+               "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
+               "MinEP": 5016,
+               "MaxEP": 36512
+           },
            "Gazel2": {
                 "New": true,
                 "Octagram": false,
