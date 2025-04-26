@@ -59,9 +59,10 @@
         "Town1": "Tempest Wheel +30%",
         "Town2": "  Churros Stall +10%",
         "Forces": [
-            34,
-            5,
-            39
+            27,
+            41,
+            15,
+            42
         ],
         "SecretType": "Single",
         "Secret": "Neo Drago End Nova Lv.MAX:Unleashes a single-target dark magic attack for 600% normal damageUse 200% of secret skill gauge to change to EX Soul of Combos: Damage x1.5",
