@@ -27,7 +27,7 @@
             39
         ],
         "SecretType": "Single",
-        "Secret": "Neo Drago End Nova Lv. MAX: Unleashes a single-target dark magic attack for 600% normal damageDecreases enemy's defense by 0% (dummy text). Use 200% of secret skill gauge to change to EX Soul of Combos: Damage x1.5",
+        "Secret": "Neo Drago End Nova Lv. MAX: Unleashes a single-target dark magic attack for 600% normal damageDecreases enemy's defense by 0% (dummy text)Use 200% of secret skill gauge to change to EX Soul of Combos: Damage x1.5",
         "EXSecret": "Predator Bloom Lv.MAX:Unleashes an all-target light magic attack for 600% normal damageDecreases all targets' magic attack resistance by 15% (Turns: 1)Use 200% of secret skill gauge to change to EX Soul of Combos: Damage x2",
         "Skill1": "Jail Execution Lv.1/Lv.10:Increases light and dark characters' Soul of Combos damage by 80% (Turns: 1)Decreases all targets' pierce resistance by 60% (Turns: 1)Cost: 60",
         "Skill1Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/699a3ebd887381225c4dade830f5b105.png?17274051646893?17274051646893",
