@@ -8,7 +8,7 @@
                 "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_albis_art.png",
                 "Types": [
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/b58c1d7c7bddf78f3fd3cb54042f821b.png",
-                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementEarth.png",
+                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/69b47880a0d4daec4b2166b55694203d.png",
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypePhysical.png"
                 ],
                 "Rarity": 5,
@@ -41,7 +41,7 @@
                "Octagram": false,
                "Release": "12/5/2024",
                "Name": "Alice Rondo [Avatar of Festivity]",
-               "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_alice_icon.png",
+               "Icon": "public/image/ZBaseF2P2Alice.png",
                "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_alice_art.png",
                "Types": [
                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/69b47880a0d4daec4b2166b55694203d.png",
