@@ -1,4 +1,36 @@
 {
+           "Alice4": {
+               "New": true,
+               "Octagram": false,
+               "Release": "12/25/2024",
+               "Name": "Alice Rondo [Avatar of Festivity]",
+               "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_alice_icon.png",
+               "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_alice_art.png",
+               "Types": [
+                   "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementEarth.png",
+                   "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
+               ],
+               "Rarity": 4,
+               "MinAtk": 95,
+               "MaxAtk": 1200,
+               "MinHp": 185,
+               "MaxHp": 2800,
+               "MinDef": 97,
+               "MaxDef": 1202,
+               "MinOutput": 100,
+               "MaxOutput": 220,
+               "Town1": "Sweets Shop +30%",
+               "Town2": "Jewelry Shop +10%",
+               "Forces": [],
+               "DivineProtection": "Festive Barrier Lv.MAX: Increases damage done by Festive Memories Force characters to earth attribute enemies by 30%; increases Festive Memories Force characters' ATK by 12%",
+               "SupportDivineProtection": "Festive Barrier (Support) Lv.MAX: Increases Festive Memories Force characters' ATK by 11%",
+               "ProtectionSkillIcon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/skill_placeholder_1.png",
+               "ProtectionSkill": "Jolly Spirit Shield Lv.1/Lv.10: Applies barrier stack x1 each to Festive Memories Force characters (Unlimited); increases Soul of Combo damage by 30% (Turns: 1); increases Soul of Divine Protection's skill point increase by 50% (Turns: 1)",
+               "UnitType": "Protection Characters",
+               "Trait1": "DEF Buff Debuff - Pierce Resistance DOWN (4★ Awaken x1): When 1 or more enemies are affected by DEF UP, decreases all targets' pierce resistance by 11% at start of turn (available in support formation)",
+               "MinEP": 900,
+               "MaxEP": 11600
+           },
            "Blanc5": {
                "New": true,
                "Octagram": false,
