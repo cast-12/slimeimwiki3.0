@@ -20,7 +20,11 @@
         "MaxOutput": 150,
         "Town1": "Digsite for Defense Magigems +30%",
         "Town2": "  Ice Cream Cart +10%",
-        "Forces": {1},
+        "Forces": "Forces": [
+            34,
+            5,
+            39
+        ],
         "SecretType": "All",
         "Secret": "Artemis Strike Lv. MAX:Unleashes an all-target light magic attack for 150% normal damageIncreases weakness strike of Divine General Force characters including rearguard until the end of battle by 60% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
         "EXSecret": "Artemis Strike Lv. MAX:Unleashes an all-target light magic attack for 150% normal damageIncreases weakness strike of Divine General Force characters including rearguard until the end of battle by 120% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
@@ -55,7 +59,7 @@
         "MaxOutput": 220,
         "Town1": "Wind Magic Device +200%",
         "Town2": "Symbol of Protection +100%",
-        "Forces": {1},
+        "Forces": [],
         "DivineProtection": "Maelstrom Spell Lv. MAX:Increases damage done by Divine General Force characters to wind attribute enemies by 120%; increases magic characters' ATK and DEF by 25%At the beginning of each turn from turn 2 onward, increases skill cost limit by 50 until the end of battle (Max: 999)",
         "SupportDivineProtection": "Maelstrom Spell (Support) Lv. MAX:Increases charge-type magic characters' ATK by 15%",
         "ProtectionSkillIcon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/d44f6d8c557e82609ad05a16b1727c42.png?17301180494149?17301180494149",
@@ -85,7 +89,11 @@
         "MaxOutput": 150,
         "Town1": "Sweets Shop +30%",
         "Town2": "  Digsite for Training Magigems +10%",
-        "Forces": {1},
+        "Forces": "Forces": [
+            34,
+            5,
+            39
+        ],
         "SecretType": "Single",
         "Secret": "Zeus Storm Bolt Lv. MAX:Unleashes a single-target space magic attack for 600% normal damageUse 200% of secret skill gauge to change to EX Soul of Combos: Damage x1.5",
         "EXSecret": "Zeus Storm Bolt Lv. MAX:Unleashes a single-target space magic attack for 900% normal damageUse 200% of secret skill gauge to change to EX Soul of Combos: Damage x1.5",
@@ -118,7 +126,11 @@
         "MaxOutput": 150,
         "Town1": "Digsite for Attack Magigems +30%",
         "Town2": "  Traditional Inn +10%",
-        "Forces": {1},
+        "Forces": "Forces": [
+            34,
+            5,
+            39
+        ],
         "SecretType": "All",
         "Secret": "Hades Explosion Lv. MAX:Unleashes an all-target dark magic attack for 150% normal damageIncreases weakness strike of Divine General Force characters including rearguard until the end of battle by 60% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
         "EXSecret": "Hades Explosion Lv. MAX:Unleashes an all-target dark magic attack for 150% normal damageIncreases weakness strike of Divine General Force characters including rearguard until the end of battle by 120% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
@@ -152,7 +164,11 @@
         "MaxOutput": 300,
         "Town1": "Hamburger Stall +30%",
         "Town2": "  Japanese Style Tavern +10%",
-        "Forces": {1},
+        "Forces": "Forces": [
+            34,
+            5,
+            39
+        ],
         "SecretType": "Single",
         "Secret": "Haze Style: War God's Roar Lv. MAX:Unleashes a single-target earth magic attack for 470% normal damageIncreases all allies' counter power by 10% (Turns: 2)",
         "UnitType": "Battle Characters",
@@ -216,7 +232,11 @@
         "MaxOutput": 150,
         "Town1": "Traditional Brewery +30%",
         "Town2": "  Digsite for Attack Magigems +10%",
-        "Forces": {1},
+        "Forces": "Forces": [
+            34,
+            5,
+            39
+        ],
         "SecretType": "All",
         "Secret": "Head Shot Lv. MAX:Unleashes an all-target dark magic attack for 150% normal damageIncreases weakness strike of Antagonist Force characters including rearguard until the end of battle by 60% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
         "EXSecret": "Head Shot Lv. MAX:Unleashes an all-target dark magic attack for 150% normal damageIncreases weakness strike of Antagonist Force characters including rearguard until the end of battle by 120% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
@@ -249,7 +269,11 @@
         "MaxOutput": 150,
         "Town1": "Japanese Style Tavern +30%",
         "Town2": "  Digsite for Stamina Magigems +10%",
-        "Forces": {1},
+        "Forces": "Forces": [
+            34,
+            5,
+            39
+        ],
         "SecretType": "Single",
         "Secret": "Ground Zero Lv. MAX:Unleashes a single-target space magic attack for 250% normal damageIncreases weakness strike of Antagonist Force characters including rearguard until the end of battle by 60% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
         "EXSecret": "Ground Zero Lv. MAX:Unleashes a single-target space magic attack for 250% normal damageIncreases weakness strike of Antagonist Force characters including rearguard until the end of battle by 120% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
@@ -284,7 +308,7 @@
         "MaxOutput": 220,
         "Town1": "Light Magic Device +200%",
         "Town2": "Symbol of Protection +100%",
-        "Forces": {1},
+        "Forces": []
         "DivineProtection": "Crimson Star Aura Lv. MAX:Increases damage done by Octagram Demon Lord Force characters to light attribute enemies by 120%; increases magic characters' ATK and DEF by 25%At the beginning of each turn from turn 2 onward, increases skill points by 30 (Max 4 times; can exceed cost limit)",
         "SupportDivineProtection": "Crimson Star Aura (Support) Lv. MAX:Increases speed-type magic characters' ATK by 15%",
         "ProtectionSkillIcon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/c6c9f05dfed930eabb3f56ebc2549ca2.png?17292191832738?17292191832738",
@@ -314,7 +338,11 @@
         "MaxOutput": 150,
         "Town1": "Tempest Wheel +30%",
         "Town2": "  Churros Stall +10%",
-        "Forces": [],
+        "Forces": "Forces": [
+            34,
+            5,
+            39
+        ],
         "SecretType": "Single",
         "Secret": "Neo Drago End Nova Lv. MAX:Unleashes a single-target dark magic attack for 600% normal damageUse 200% of secret skill gauge to change to EX Soul of Combos: Damage x1.5",
         "EXSecret": "Neo Drago End Nova Lv. MAX:Unleashes a single-target dark magic attack for 900% normal damageUse 200% of secret skill gauge to change to EX Soul of Combos: Damage x1.5",
