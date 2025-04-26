@@ -1,5 +1,5 @@
 {
-            "Gazel2": {
+           "Gazel2": {
                 "New": true,
                 "Octagram": false,
                 "Release": "10/28/2024",
@@ -10,7 +10,7 @@
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementEarth.png",
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
                 ],
-                "Rarity": 5,
+                "Rarity": 4,
                 "MinAtk": 264,
                 "MaxAtk": 2665,
                 "MinHp": 489,
@@ -24,15 +24,17 @@
                 "Forces": [],
                 "SecretType": "Single",
                 "Secret": "Haze Style: War God's Roar Lv.MAX:Unleashes a single-target earth magic attack for 470% normal damageIncreases all allies' counter power by 10% (Turns: 2)",
-                "EXSecret": "Haze Style: War God's Roar Lv.MAX:Unleashes a single-target earth magic attack for 705% normal damageIncreases all allies' counter power by 20% (Turns: 2)", 
+                "Skill1": "Warrior's Command Lv.1/Lv.10:Increases own ATK by 10% and critical rate by 8% (Turns: 2); Cost: 40",
+                "Skill1Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/skill_placeholder.png",
+                "Skill2": "Steadfast Guardian Lv.1/Lv.10:Increases all allies' guard rate by 10% and counter power by 10% (Turns: 2); Cost: 25",
+                "Skill2Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/skill_placeholder.png",
                 "UnitType": "Battle Characters",
+                "Valor1": "Counter Focus (Initial Conditions):When you activate a soul combo, increases own counterattack rate by 10% (Turns: 1; Uses per battle: 1)",
+                "Valor1A": "Counter Focus (5★ Awaken x2):When you activate a soul combo, increases own counterattack rate by 15% (Turns: 1; Uses per battle: 2)",
                 "Trait1": "HP - Enhance Counterattack Rate (5★ Awaken x1):When you have 50% or higher HP, increases own counterattack rate by 6% at start of turn (available in support formation)",
                 "Trait1A": "HP - Enhance Counterattack Rate (5★ Awaken x3):When you have 50% or higher HP, increases own counterattack rate by 9% at start of turn (available in support formation)",
                 "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot. Increases counter power by 8%",
-                "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 64, ATK by 18, and DEF by 18",
-                "Valor1": "Counter Focus (Initial Conditions):When you activate a soul combo, increases own counterattack rate by 10% (Turns: 1; Uses per battle: 1)",
-                "Valor1A": "Counter Focus (5★ Awaken x2):When you activate a soul combo, increases own counterattack rate by 15% (Turns: 1; Uses per battle: 2)",
-                "GuidanceEnhancementTrait": "Enhance Guidance (5★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
+                "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 64, ATK by 18, DEF by 18",
                 "MinEP": 2509,
                 "MaxEP": 28281
             },
