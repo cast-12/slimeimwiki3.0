@@ -2,12 +2,12 @@
     "Milim17": {
         "New": true,
         "Octagram": false,
-        "Release": "9/27/2024",
-        "Name": "Shinsha [Serpent Zinnia Slime]",
-        "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/c4f7eabe8dc4cf46d336c96ed7bbfbd3.png?17274051646893?17274051646893",
-        "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/c4f7eabe8dc4cf46d336c96ed7bbfbd3.png?17274051646893?17274051646893",
+        "Release": "10/18/2024",
+        "Name": "Milim Nava [Armored Dragonoid]",
+        "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/76022531b713a6c802128f37479eecfa.png?17292191832738?17292191832738",
+        "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/76022531b713a6c802128f37479eecfa.png?17292191832738?17292191832738",
         "Types": [
-            "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementHoly.png",
+            "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementDark.png",
             "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
         ],
         "Rarity": 5,
