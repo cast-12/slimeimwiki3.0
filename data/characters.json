@@ -4,8 +4,8 @@
                   "Octagram": false,
                   "Release": "1/20/2025",
                   "Name": "Luminus Valentine [Transcendent Vampiress]",
-                  "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/luminous_creator01_icon.png",
-                  "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/luminous_creator01_art.png",
+                  "Icon": "/images/ZBase1Luminous.png",
+                  "Art": "2 Luminous.png",
                   "Types": [
                       "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementWind.png",
                       "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypePhysics.png"
@@ -44,8 +44,8 @@
                 "Octagram": false,
                 "Release": "1/20/2025",
                 "Name": "Veldora Tempest [Wild Storm Dragon]",
-                "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/veldora_creator01_icon.png",
-                "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/veldora_creator01_art.png",
+                "Icon": "/images/ZBase2Veldora.png",
+                "Art": "/images/4 Veldora.png",
                 "Types": [
                     "/images/tile050.png",
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/000d7c3dcda49e22cf6e7e57498b7d94.png",
@@ -81,8 +81,8 @@
                 "Octagram": false,
                 "Release": "1/20/2025",
                 "Name": "Jiwu [Elementalist]",
-                "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/jiwu_forcard_icon.png",
-                "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/jiwu_forcard_art.png",
+                "Icon": "/images/ZBaseF2P2Jiwu.png",
+                "Art": "/images/8 Jiwu.png",
                 "Types": [
                     "/images/tile050.png",
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/000d7c3dcda49e22cf6e7e57498b7d94.png",
