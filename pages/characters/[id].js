@@ -203,8 +203,8 @@ function CharacterTags({ me, id, text }) {
 }
 
 function IconTag({ src, group, i, style, text }) {
-	if (!text && !src) return null; // <- Add this guard  
 	const router = useRouter();
+	if (!text && !src) return null; // <- Add this guard  
 
 	return (
 		<div
