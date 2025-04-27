@@ -203,6 +203,7 @@ function CharacterTags({ me, id, text }) {
 }
 
 function IconTag({ src, group, i, style, text }) {
+	if (!text && !src) return null; // <- Add this guard  
 	const router = useRouter();
 
 	return (
@@ -451,7 +452,7 @@ export default function Character({ id }) {
 											src={Groups[3].find((arr) =>
 												arr.includes(me.Growth)
 											)}
-											text={me.Growth?.includes("EXU") ? "EXU" : me.Growth?.includes("EX") ? "EX" : null}
+											text={me.Growth ? (me.Growth.includes("EXU") ? "EXU" : me.Growth.includes("EX") ? "EX" : null) : null}
 										/>
 									)}
 									{me.Weapon && (
@@ -509,7 +510,7 @@ export default function Character({ id }) {
 											src={Groups[6].find((arr) =>
 												arr.includes(me.Rarity)
 											)}
-											text={me.Growth?.includes("EXU") ? "EXU" : me.Growth?.includes("EX") ? "EX" : null}
+											text={me.Growth ? (me.Growth.includes("EXU") ? "EXU" : me.Growth.includes("EX") ? "EX" : null) : null}
 										/>
 									)}
 									<CharacterTags
