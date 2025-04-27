@@ -300,7 +300,11 @@ export default function Character({ id }) {
 		(me.SupportDivineProtection ? 1 : 0) +
 		(me.GuidanceEnhancementTrait ? 1 : 0);
 	let ProtectionBoxWidth = 100 / (1 + ProtectionGap);
-	const StarsStyle = me.Growth?.includes("EX") ? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" } : {};
+	const StarsStyle = me.Growth?.includes("EXU")
+    ? { filter: "drop-shadow(0px 0px 1px white)" }
+    : me.Growth?.includes("EX")
+    ? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
+    : {};
 
 	Object.keys(me).forEach((key) => {
 		if (typeof me[key] == typeof "")
@@ -447,7 +451,7 @@ export default function Character({ id }) {
 											src={Groups[3].find((arr) =>
 												arr.includes(me.Growth)
 											)}
-											text={me.Growth?.includes("EX") ? "EX" : null}
+											text={me.Growth?.includes("EX") ? "EX" : me.Growth?.includes("EXU") ? "EXU" : null}
 										/>
 									)}
 									{me.Weapon && (
