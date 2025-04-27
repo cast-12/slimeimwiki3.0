@@ -305,6 +305,9 @@ function CharacterShowcase({ id, i, length}) {
 	const StarsStyle = me.Growth?.includes("EX")
 		? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
 		: {};
+	StarsStyle = me.Growth?.includes("EXU")
+		? { filter: "drop-shadow(0px 0px 1pxrgb(251, 251, 251)) hue-rotate(300deg)" }
+		: {};
 	let Types = [...me.Types, ...me.Forces.map((id) => Forces[id][1])];
 	if (me.Weapon)
 		Types.push(Groups[2].find((arr) => arr.includes(me.Weapon))[0]);
