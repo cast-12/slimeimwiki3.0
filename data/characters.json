@@ -1,4 +1,37 @@
 {
+            "Treyni5": {
+                "New": true,
+                "Octagram": false,
+                "Release": "4/1/2025",
+                "Name": "Treyni [Fey Medic]",
+                "Icon": "/images/ZBaseF2P2Treyni.png",
+                "Art": "/images/8 Treyni.png",
+                "Types": [
+                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/949d08510e1b0b4d1775fbb9b6728de1.png",
+                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/93043b256fe14bed62ba553498ab9f0f.png",
+                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/500f55cd6c984a5431af3db90c314dc2.png"
+                ],
+                "Rarity": 4,
+                "MinAtk": 95,
+                "MaxAtk": 1200,
+                "MinHp": 185,
+                "MaxHp": 2800,
+                "MinDef": 97,
+                "MaxDef": 1202,
+                "MinOutput": 100,
+                "MaxOutput": 220,
+                "Town1": "Sweets Shop +30%",
+                "Town2": "Jewelry Shop +10%",
+                "Forces": [],
+                "DivineProtection": "Medic's Blessing Lv.MAX: Increases damage done by Warrior's Mind Force characters to light attribute enemies by 30%; increases Warrior's Mind Force characters' ATK by 12%",
+                "SupportDivineProtection": "Medic's Blessing (Support) Lv.MAX: Increases Warrior's Mind Force characters' ATK by 11%",
+                "ProtectionSkillIcon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/skill_placeholder_1.png",
+                "ProtectionSkill": "Sacred Recovery Lv.1/Lv.10: Changes Soul of Divine Protection into Soul of Secrets. Decreases all targets' physical attack damage resistance by 30% (Turns: 2). Increases skill points by 20.",
+                "UnitType": "Protection Characters",
+                "Trait1": "ATK Buff - DEF DOWN (4★ Awaken x1): When 1 or more enemies are affected by ATK UP, decreases all targets' DEF by 6% at start of turn (available in support formation)",
+                "MinEP": 900,
+                "MaxEP": 11600
+            },
             "Frey5": {
                 "New": true,
                 "Octagram": false,
