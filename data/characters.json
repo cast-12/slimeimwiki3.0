@@ -1,13 +1,13 @@
 { 
-           "Alice4": {
+          "Alice4": {
                "New": true,
                "Octagram": false,
-               "Release": "12/25/2024",
+               "Release": "12/5/2024",
                "Name": "Alice Rondo [Avatar of Festivity]",
-               "Icon": "/image/ZBaseF2P2Alice.png",
+               "Icon": "public/image/ZBaseF2P2Alice.png",
                "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_alice_art.png",
                "Types": [
-                   "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementEarth.png",
+                   "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/69b47880a0d4daec4b2166b55694203d.png",
                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
                ],
                "Rarity": 4,
@@ -22,12 +22,16 @@
                "Town1": "Sweets Shop +30%",
                "Town2": "Jewelry Shop +10%",
                "Forces": [],
-               "DivineProtection": "Festive Barrier Lv.MAX: Increases damage done by Festive Memories Force characters to earth attribute enemies by 30%; increases Festive Memories Force characters' ATK by 12%",
-               "SupportDivineProtection": "Festive Barrier (Support) Lv.MAX: Increases Festive Memories Force characters' ATK by 11%",
+               "DivineProtection": "Festive Barrier Lv.MAX:Increases damage done by Festive Memories Force characters to earth attribute enemies by 30%; increases Festive Memories Force characters' ATK by 12%",
+               "SupportDivineProtection": "Festive Barrier (Support) Lv.MAX:Increases Festive Memories Force characters' ATK by 11%",
                "ProtectionSkillIcon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/skill_placeholder_1.png",
-               "ProtectionSkill": "Jolly Spirit Shield Lv.1/Lv.10: Applies barrier stack x1 each to Festive Memories Force characters (Unlimited); increases Soul of Combo damage by 30% (Turns: 1); increases Soul of Divine Protection's skill point increase by 50% (Turns: 1)",
+               "ProtectionSkill": "Jolly Spirit Shield Lv.1/Lv.10:Applies barrier stack x1 each to Festive Memories Force characters (Unlimited). Increases Soul of Combo damage by 30% (Turns: 1). Increases Soul of Divine Protection's skill point increase by 50% (Turns: 1)",
                "UnitType": "Protection Characters",
-               "Trait1": "DEF Buff Debuff - Pierce Resistance DOWN (4★ Awaken x1): When 1 or more enemies are affected by DEF UP, decreases all targets' pierce resistance by 11% at start of turn (available in support formation)",
+               "Valor1": "Barrier Gift (Initial Conditions):When you activate protection, increases ATK of Festive Memories Force characters by 10% (Turns: 1; Uses per battle: 1)",
+               "Valor1A": "Barrier Gift (6★ Awaken x2):When you activate protection, increases ATK of Festive Memories Force characters by 15% (Turns: 1; Uses per battle: 2)",
+               "Trait1": "Earth Damage UP (6★ Awaken x1):Increases all allies' earth damage by 5% at start of turn (available in support formation)",
+               "Trait1A": "Earth Damage UP (6★ Awaken x3):Increases all allies' earth damage by 8% at start of turn (available in support formation)",
+               "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effects by 5% and Supporting Divine Protection ATK effect by 5%",
                "MinEP": 900,
                "MaxEP": 11600
            },
