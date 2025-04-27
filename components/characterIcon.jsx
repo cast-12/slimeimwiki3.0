@@ -48,7 +48,7 @@ function CharacterTypes({ id }) {
 
 function IconContent({ id, text }) {
 	const isEx = useMemo(() => {
-		return characters[id].Growth?.includes("EX");
+		return characters[id].Growth?.includes("EXU") || characters[id].Growth?.includes("EX");
 	}, [id]);
 
 	return (
