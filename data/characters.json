@@ -7,7 +7,7 @@
             "Icon": "/images/ZBase4Fern.png",
             "Art": "/images/16 Fern.png",
             "Types": [
-                "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementLight.png",
+                "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementHoly.png",
                 "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
             ],
             "Rarity": 5,
@@ -126,7 +126,7 @@
             "Icon": "/images/ZBase1Frieren.png",
             "Art": "/images/2 Frieren.png",
             "Types": [
-                "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementLight.png",
+                "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementHoly.png",
                 "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
             ],
             "Rarity": 5,
