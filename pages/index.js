@@ -302,11 +302,9 @@ function Skill({ me, number }) {
 function CharacterShowcase({ id, i, length}) {
 	const me = characters[id];
 	const orphan = length % 2 == 1 && i == length - 1;
-	const StarsStyle = me.Growth?.includes("EXU")
-    ? { filter: "drop-shadow(0px 0px 2px white)" }
-    : me.Growth?.includes("EX")
-    ? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
-    : {};
+	const StarsStyle = me.Growth?.includes("EX")
+		? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
+		: {};
 	let Types = [...me.Types, ...me.Forces.map((id) => Forces[id][1])];
 	if (me.Weapon)
 		Types.push(Groups[2].find((arr) => arr.includes(me.Weapon))[0]);

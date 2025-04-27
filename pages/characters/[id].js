@@ -277,7 +277,7 @@ function TopBar({ me, isInViewport, setIsInViewport, sticky, StarsStyle }) {
 							}
 						/>
 					)}
-					<FadeInImage style={StarsStyle} src={Stars[me.Rarity - 1]} />
+					<FadeInImage style={me.Growth?.includes("EXU") ? StarsStyle2 : StarsStyle} src={Stars[me.Rarity - 1]} />
 				</div>
 			</div>
 		</div>
@@ -300,11 +300,14 @@ export default function Character({ id }) {
 		(me.SupportDivineProtection ? 1 : 0) +
 		(me.GuidanceEnhancementTrait ? 1 : 0);
 	let ProtectionBoxWidth = 100 / (1 + ProtectionGap);
-	const StarsStyle = me.Growth?.includes("EXU")
-    ? { filter: "drop-shadow(0px 0px 1px white)" }
-    : me.Growth?.includes("EX")
-    ? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
-    : {};
+	const StarsStyle = me.Growth?.includes("EX")
+	? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
+	: {};
+
+	const StarsStyle2 = me.Growth?.includes("EXU")
+	? { filter: "drop-shadow(0px 0px 1px white)" }
+	: {};
+
 
 	Object.keys(me).forEach((key) => {
 		if (typeof me[key] == typeof "")
@@ -342,6 +345,7 @@ export default function Character({ id }) {
 					isInViewport={isInViewport}
 					setIsInViewport={setIsInViewport}
 					StarsStyle={StarsStyle}
+					StarsStyle2={StarsStyle2}
 				/>
 				<div className={styles.infoContainer}>
 					<div className={styles.paddedInfo}>
@@ -443,16 +447,12 @@ export default function Character({ id }) {
 									)}
 									{me.Growth && (
 										<IconTag
-											style={StarsStyle ?? {}}
-											group={3}
-											i={Groups[3].findIndex((arr) =>
-												arr.includes(me.Growth)
-											)}
-											src={Groups[3].find((arr) =>
-												arr.includes(me.Growth)
-											)}
-											text={me.Growth?.includes("EX") ? "EX" : me.Growth?.includes("EXU") ? "EXU" : null}
-										/>
+											style={me.Growth?.includes("EXU") ? StarsStyle2 : StarsStyle}
+											group={6}
+											i={Groups[6].findIndex((arr) => arr.includes(me.Rarity))}
+											src={Groups[6].find((arr) => arr.includes(me.Rarity))}
+											text={me.Growth?.includes("EXU") ? "EXU" : me.Growth?.includes("EX") ? "EX" : null}
+									  />
 									)}
 									{me.Weapon && (
 										<IconTag
@@ -501,16 +501,12 @@ export default function Character({ id }) {
 									})}
 									{me.Rarity && (
 										<IconTag
-											style={StarsStyle ?? {}}
+											style={me.Growth?.includes("EXU") ? StarsStyle2 : StarsStyle}
 											group={6}
-											i={Groups[6].findIndex((arr) =>
-												arr.includes(me.Rarity)
-											)}
-											src={Groups[6].find((arr) =>
-												arr.includes(me.Rarity)
-											)}
-											text={me.Growth?.includes("EX") ? "EX" : me.Growth?.includes("EXU") ? "EXU" : null}
-										/>
+											i={Groups[6].findIndex((arr) => arr.includes(me.Rarity))}
+											src={Groups[6].find((arr) => arr.includes(me.Rarity))}
+											text={me.Growth?.includes("EXU") ? "EXU" : me.Growth?.includes("EX") ? "EX" : null}
+									  />
 									)}
 									<CharacterTags
 										me={me}
