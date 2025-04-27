@@ -1151,8 +1151,8 @@
                "Octagram": false,
                "Release": "11/7/2024",
                "Name": "Blanc [Avatar of Allure]",
-               "Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_blanc_icon.png",
-               "Art": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/placeholder_blanc_art.png",
+               "Icon": "/images/Buran3Anniv_5_CharaPartyM.png",
+               "Art": "/images/Buran3Anniv_6_CharaInfo.png",
                "Types": [
                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementAir.png",
                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icAttackTypeMagic.png"
