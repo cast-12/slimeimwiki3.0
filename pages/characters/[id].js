@@ -505,7 +505,7 @@ export default function Character({ id }) {
 											src={Groups[6].find((arr) =>
 												arr.includes(me.Rarity)
 											)}
-											text={me.Growth?.includes("EX") ? "EX" : null}
+											text={me.Growth?.includes("EX") ? "EX" : me.Exu ? "EXU" : null}
 										/>
 									)}
 									<CharacterTags
