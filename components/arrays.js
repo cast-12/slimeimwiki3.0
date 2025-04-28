@@ -113,6 +113,7 @@ const Groups = [
 		["/images/b0ef6fd8-0247-426c-9220-ac53b211911b.png", "EX Attack", "Attack"],
 		["/images/7907d473-c8b5-4c1f-ba30-291d6aca9ddb.png", "EX Balance", "Balance"],
 		["/images/4a7f2187-0757-4fad-943d-c786af798be2.png", "EX Defense", "Defense"],
+		["/images/b0ef6fd8-0247-426c-9220-ac53b211911b.png", "EXU Attack", "Attack"],
 	],
 	[
 		["/images/1599b702-c168-4ff4-8bd7-0b1400f85ccc.png", true, "Octagram Bazaar"]
