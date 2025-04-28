@@ -168,8 +168,7 @@
                 "Art": "/images/4 Shuna.png",
                 "Types": [
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/949d08510e1b0b4d1775fbb9b6728de1.png",
-                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/93043b256fe14bed62ba553498ab9f0f.png",
-                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/500f55cd6c984a5431af3db90c314dc2.png"
+                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/543570723537fa79d8ad30ec1e307da7.png"
                 ],
                 "Rarity": 5,
                 "MinAtk": 265,
@@ -205,8 +204,7 @@
                 "Art": "/images/8 Treyni.png",
                 "Types": [
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/949d08510e1b0b4d1775fbb9b6728de1.png",
-                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/93043b256fe14bed62ba553498ab9f0f.png",
-                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/500f55cd6c984a5431af3db90c314dc2.png"
+                    "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/93043b256fe14bed62ba553498ab9f0f.png"
                 ],
                 "Rarity": 4,
                 "MinAtk": 95,
@@ -850,7 +848,6 @@
             "Art": "/images/4 Himmel.png",
             "Types": [
                 "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/c12fc86c04e83f933d3ff7ce537a047e.png",
-                "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/a571147d09bd7a463905e7e547bafd58.png",
                 "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/543570723537fa79d8ad30ec1e307da7.png"
             ],
             "Rarity": 5,
@@ -887,7 +884,6 @@
             "Art": "/images/8 Milim.png",
             "Types": [
                 "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icElementDark.png",
-                "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/a571147d09bd7a463905e7e547bafd58.png",
                 "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/543570723537fa79d8ad30ec1e307da7.png"
             ],
             "Rarity": 4,
