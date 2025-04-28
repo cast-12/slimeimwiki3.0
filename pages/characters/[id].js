@@ -302,10 +302,11 @@ export default function Character({ id }) {
 		(me.GuidanceEnhancementTrait ? 1 : 0);
 	let ProtectionBoxWidth = 100 / (1 + ProtectionGap);
 	const StarsStyle = me.Growth?.includes("EXU")
-		? { filter: "drop-shadow(0px 0px 2px white) hue-rotate(0deg)" }
+		? { filter: "drop-shadow(0px 0px 1px #FFFFFF) hue-rotate(300deg)" }
 		: me.Growth?.includes("EX")
 		? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
 		: {};
+
 
 	Object.keys(me).forEach((key) => {
 		if (typeof me[key] == typeof "")
