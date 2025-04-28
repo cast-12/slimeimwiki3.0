@@ -439,8 +439,8 @@ export default function Home() {
 					<Divider text={"RECENT LIVESTREAM"} />
 					<div className={styles.streamContainer}>
 						<iframe
-							src="https://www.youtube.com/embed/Cf5v0MA9eMM"
-							title="転生したらスライムだった件 魔王と竜の建国譚 1.5周年お祭りだ！生放送！！"
+							src="https://www.youtube.com/watch?v=eE063IYC0Uk"
+							title="転生したらスライムだった件 魔王と竜の建国譚 まおりゅう3.5周年記念生配信！"
 							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen;"
 						></iframe>
 					</div>
