@@ -304,7 +304,7 @@ export default function Character({ id }) {
 	const StarsStyle = me.Growth?.includes("EXU")
 		? { filter: "drop-shadow(0px 0px 1px #FFFFFF) hue-rotate(300deg)" }
 		: me.Growth?.includes("EX")
-		? { filter: "drop-shadow(0px 0px 1pxrgb(93, 101, 254)) hue-rotate(300deg)" }
+		? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
 		: {};
 
 
