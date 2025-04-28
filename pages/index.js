@@ -303,9 +303,9 @@ function CharacterShowcase({ id, i, length}) {
 	const me = characters[id];
 	const orphan = length % 2 == 1 && i == length - 1;
 	const StarsStyle = me.Growth?.includes("EXU")
-		? { filter: "drop-shadow(0px 0px 1px #FFFFFF) hue-rotate(300deg)" }
+		? { filter: "drop-shadow(0px 0px 1px #2a52be) hue-rotate(300deg)" }
 		: me.Growth?.includes("EX")
-		? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
+		? { filter: "drop-shadow(0px 0px 1px #2a52be) hue-rotate(300deg)" }
 		: {};
 	let Types = [...me.Types, ...me.Forces.map((id) => Forces[id][1])];
 	if (me.Weapon)
