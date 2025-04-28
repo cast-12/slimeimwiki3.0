@@ -62,7 +62,7 @@
                 "MaxOutput": 150,
                 "Town1": "Digsite for Defense Magigems +30%",
                 "Town2": "Ice Cream Cart +10%",
-                "Forces": [],
+                "Forces": [6, 26, 27, 34],
                 "SecretType": "All",
                 "Secret": "Enchanted Firestorm Lv.MAX: Unleashes an all-target fire physical attack for 150% normal damageIncreases weakness strike of Warrior's Mind Force characters including rearguard until the end of battle by 60% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
                 "EXSecret": "Enchanted Firestorm Lv.MAX: Unleashes an all-target fire physical attack for 150% normal damageIncreases weakness strike of Warrior's Mind Force characters including rearguard until the end of battle by 120% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
