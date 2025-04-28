@@ -22,7 +22,13 @@
                 "MaxOutput": 150,
                 "Town1": "Digsite for Defense Magigems +30%",
                 "Town2": "Ice Cream Cart +10%",
-                "Forces": [],
+                "Forces": [
+                    0, 1, 2, 3, 4, 5, 6, 7, 8, 9,
+                    10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+                    20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                    30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+                    40, 41, 42, 43, 44, 45, 46, 47
+                    ],
                 "SecretType": "All",
                 "Secret": "Ivory Blaze Devastation Lv.MAX: Unleashes an all-target dark physical attack for 375% normal damageUse 200% of secret skill gauge to change to EX Soul of Combos: Damage x2",
                 "EXSecret": "Ivory Blaze Devastation Lv.MAX: Unleashes an all-target dark physical attack for 750% normal damageUse 200% of secret skill gauge to change to EX Soul of Combos: Damage x2",
