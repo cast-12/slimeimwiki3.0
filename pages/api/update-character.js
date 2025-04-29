@@ -5,13 +5,13 @@ const octokit = new Octokit({
 	auth:
 		process.env.SECRET_CODE
 })
-let owner = "Seikirin"
-let repo = "slimeimwiki2.0"
+let owner = "cast-12"
+let repo = "slimeimwiki3.0"
 let Today = new Date()
 let shas = {};
 
 async function pullFile(path) {
-	let Pull = await octokit.request(`GET /repos/Seikirin/${repo}/contents/` + path)
+	let Pull = await octokit.request(`GET /repos/cast-12/${repo}/contents/` + path)
 	shas[path] = { sha: Pull.data.sha, content: Buffer.from(Pull.data.content, 'base64').toString('utf8') }
 	return shas[path].content;
 }
@@ -22,7 +22,7 @@ async function pushFile(path, content) {
 	if (shas[path] === undefined || shas[path].content !== currentContent) {
 		console.log("Pushing file " + path)
 		currentContent = Buffer.from(content).toString('base64')
-		let Push = await octokit.request(`PUT /repos/Seikirin/${repo}/contents/` + path, {
+		let Push = await octokit.request(`PUT /repos/cast-12/${repo}/contents/` + path, {
 			message: 'Update',
 			content: currentContent,
 			sha: shas[path]?.sha,

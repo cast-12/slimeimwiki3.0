@@ -69,7 +69,7 @@ function IconContent({ id, text }) {
 				style={
 					isEx
 						? {
-								filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)",
+								filter: "drop-shadow(0px 0px 1px #FFFFF) hue-rotate(300deg)",
 						  }
 						: {}
 				}
