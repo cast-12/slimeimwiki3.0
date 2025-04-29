@@ -68,7 +68,7 @@ function IconContent({ id, text }) {
 				alt={`${characters[id].Rarity} Stars`}
 				style={
 					isUnbound
-						? { filter: "drop-shadow(0px 0px 2px white)" }
+						? { filter: "drop-shadow(0px 0px 2px #000080)hue-rotate(300deg)" }
 						: isEx
 						? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
 						: {}
