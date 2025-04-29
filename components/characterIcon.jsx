@@ -47,11 +47,12 @@ function CharacterTypes({ id }) {
 }
 
 function IconContent({ id, text }) {
-	const growth = characters[id].Growth ?? "";
-	const isEXU = useMemo(() => growth.includes("EXU"), [growth]);
-	const isEX = useMemo(() => growth.includes("EX") && !growth.includes("EXU"), [growth]);
-	const hasNoGrowth = useMemo(() => growth === "", [growth]);
-
+	const isEx = useMemo(() => {
+		return characters[id].Growth?.includes("EX");
+	}, [id]);
+	const isExU = useMemo(() => {
+		return characters[id].Growth?.includes("EXU");
+	}, [id]);
 
 	return (
 		<>
@@ -69,9 +70,9 @@ function IconContent({ id, text }) {
 			<FadeInImage
 				alt={`${characters[id].Rarity} Stars`}
 				style={
-					isEXU
+					characters[id].Growth?.includes("EXU")
 					  ? { filter: "drop-shadow(0px 0px 2px #FFFFFF) hue-rotate(300deg)" }
-					  : isEX
+					  : characters[id].Growth?.includes("EX")
 					  ? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
 					  : {}
 				  }
