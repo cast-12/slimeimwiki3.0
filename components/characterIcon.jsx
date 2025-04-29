@@ -47,9 +47,9 @@ function CharacterTypes({ id }) {
 }
 
 function IconContent({ id, text }) {
-	const isEx = useMemo(() => {
-		return characters[id].Growth?.includes("EXU") || characters[id].Growth?.includes("EX");
-	}, [id]);
+	const isEXU = useMemo(() => characters[id].Growth?.includes("EXU"), [id]);
+	const isEX = useMemo(() => characters[id].Growth?.includes("EX") && !characters[id].Growth?.includes("EXU"), [id]);
+
 
 	return (
 		<>
@@ -67,12 +67,13 @@ function IconContent({ id, text }) {
 			<FadeInImage
 				alt={`${characters[id].Rarity} Stars`}
 				style={
-					isEx
-						? {
-								filter: "drop-shadow(0px 0px 1px #FFFFF) hue-rotate(300deg)",
-						  }
-						: {}
-				}
+					isEXU
+					  ? { filter: "drop-shadow(0px 0px 2px #FFFFFF) hue-rotate(300deg)" }
+					  : isEX
+					  ? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
+					  : {}
+				  }
+				  
 				className={styles.iconRarity}
 				src={Stars[characters[id].Rarity - 1]}
 			/>
