@@ -204,7 +204,6 @@ function CharacterTags({ me, id, text }) {
 
 function IconTag({ src, group, i, style, text }) {
 	const router = useRouter();
-	if (!text && !src) return null; // <- Add this guard  
 
 	return (
 		<div
@@ -301,12 +300,7 @@ export default function Character({ id }) {
 		(me.SupportDivineProtection ? 1 : 0) +
 		(me.GuidanceEnhancementTrait ? 1 : 0);
 	let ProtectionBoxWidth = 100 / (1 + ProtectionGap);
-	const StarsStyle = me.Growth?.includes("EXU")
-		? { filter: "drop-shadow(0px 0px 1px #FFFFFF) hue-rotate(300deg)" }
-		: me.Growth?.includes("EX")
-		? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" }
-		: {};
-
+	const StarsStyle = me.Growth?.includes("EX") ? { filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)" } : {};
 
 	Object.keys(me).forEach((key) => {
 		if (typeof me[key] == typeof "")
@@ -398,12 +392,7 @@ export default function Character({ id }) {
 												<div className={styles.hoverClass} onClick={() => {
 													RouteFilter(Groups.length + 2, id, router)
 												}} key={i}>
-													<FadeInImage src={
-														  forces[id][1].startsWith("http") || forces[id][1].startsWith("//")
-														    ? forces[id][1]
-														    : `/data/forces/${forces[id][1]}`
-														} />
-
+													<FadeInImage src={forces[id][1]} />
 													<div>{forces[id][0]}</div>
 												</div>
 											);
@@ -453,7 +442,7 @@ export default function Character({ id }) {
 											src={Groups[3].find((arr) =>
 												arr.includes(me.Growth)
 											)}
-											text={me.Growth ? (me.Growth.includes("EXU") ? "EXU" : me.Growth.includes("EX") ? "EX" : null) : null}
+											text={me.Growth?.includes("EX") ? "EX" : null}
 										/>
 									)}
 									{me.Weapon && (
@@ -511,7 +500,7 @@ export default function Character({ id }) {
 											src={Groups[6].find((arr) =>
 												arr.includes(me.Rarity)
 											)}
-											text={me.Growth ? (me.Growth.includes("EXU") ? "EXU" : me.Growth.includes("EX") ? "EX" : null) : null}
+											text={me.Growth?.includes("EX") ? "EX" : null}
 										/>
 									)}
 									<CharacterTags
