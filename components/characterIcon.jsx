@@ -47,8 +47,10 @@ function CharacterTypes({ id }) {
 }
 
 function IconContent({ id, text }) {
-	const isEXU = useMemo(() => characters[id].Growth?.includes("EXU"), [id]);
-	const isEX = useMemo(() => characters[id].Growth?.includes("EX") && !characters[id].Growth?.includes("EXU"), [id]);
+	const growth = characters[id].Growth ?? "";
+	const isEXU = useMemo(() => growth.includes("EXU"), [growth]);
+	const isEX = useMemo(() => growth.includes("EX") && !growth.includes("EXU"), [growth]);
+	const hasNoGrowth = useMemo(() => growth === "", [growth]);
 
 
 	return (
