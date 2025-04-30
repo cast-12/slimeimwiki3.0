@@ -48,9 +48,9 @@ function CharacterTypes({ id }) {
 
 function IconContent({ id, text }) {
 	const isEx = useMemo(() => {
-		characters[id].Growth?.includes("EX");
+		return characters[id].Growth?.includes("EXU") || characters[id].Growth?.includes("EX");
 	}, [id]);
-	const isUnbound = useMemo(() => characters[id].Unbound === true, [id]);
+
 	return (
 		<>
 			<FadeInImage
@@ -67,16 +67,15 @@ function IconContent({ id, text }) {
 			<FadeInImage
 				alt={`${characters[id].Rarity} Stars`}
 				style={
-					isUnbound
-						? { filter: "drop-shadow(0px 0px 1px #000080) hue-rotate(300deg)" }
-						: isEx
-						? { filter: "drop-shadow(0px 0px 1px #000080) hue-rotate(300deg)" }
+					isEx
+						? {
+								filter: "drop-shadow(0px 0px 1px #FE5DAE) hue-rotate(300deg)",
+						  }
 						: {}
 				}
 				className={styles.iconRarity}
 				src={Stars[characters[id].Rarity - 1]}
 			/>
-
 			<div className={styles.iconTypeList}>
 				<CharacterTypes id={id} />
 			</div>
