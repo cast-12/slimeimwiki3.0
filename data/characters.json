@@ -1221,7 +1221,8 @@
                "EXAbility1": "Individual Mercy: Increases own following status when Rimuru Tempest is assigned to a battle slot. Increases pierce power by 12%",
                "EXAbility2": "Magic Blessing: Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
                "MinEP": 5015,
-               "MaxEP": 36511
+               "MaxEP": 36511,
+               "Tier": "SSS"
            },
            "Elmesia2": {
                "New": true,
@@ -1338,7 +1339,8 @@
                "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot. Increases synergy power by 12%",
                "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
                "MinEP": 5016,
-               "MaxEP": 36512
+               "MaxEP": 36512,
+               "Tier": "SSS"
              },
            "Gazel2": {
                 "New": true,
@@ -7862,7 +7864,6 @@
         "EP": 23695,
         "MinEP": 2406,
         "MaxEP": 23695,
-        "Tier": "A",
         "Release": "10/28/2022",
         "Forces": [
             34
@@ -8084,9 +8085,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Eren is assigned to a battle slot.             Increases counter power by 8% ",
         "EXAbility2": "Earth Mercy:Increases own following status in accordance with the number of earth characters assigned to battle slots.             Increases HP by 216  Increases ATK by 60  Increases DEF by 120 ",
         "MinEP": 4584,
-        "MaxEP": 29581,
-        "Tier": "A"
-    },
+        "MaxEP": 29581
+        },
     "Benimaru6": {
         "New": false,
         "Octagram": false,
@@ -8119,9 +8119,8 @@
         "Trait1": "HP - DEF UP (5★ Awaken x1):When 3 vanguard have 75% or more HP, increases all allies' DEF by 6% at start of turn (available in support formation)",
         "Trait1A": "HP - DEF UP (5★ Awaken x3):When 3 vanguard have 75% or more HP, increases all allies' DEF by 9% at start of turn (available in support formation)",
         "MinEP": 1821,
-        "MaxEP": 13018,
-        "Tier": "SS"
-    },
+        "MaxEP": 13018
+        },
     "Myulan2": {
         "New": false,
         "Octagram": false,
@@ -8164,9 +8163,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Eren is assigned to a battle slot.Increases counter power by 8%",
         "EXAbility2": "Earth Mercy:Increases own following status in accordance with the number of earth characters assigned to battle slots.Increases HP by 216Increases ATK by 60Increases DEF by 120",
         "MinEP": 4663,
-        "MaxEP": 29661,
-        "Tier": "SS"
-    },
+        "MaxEP": 29661
+        },
     "Eren1": {
         "New": false,
         "Name": "Eren [Psychedelic Sorcerer]",
@@ -8222,7 +8220,6 @@
         "EP": 23695,
         "MinEP": 2406,
         "MaxEP": 23695,
-        "Tier": "B",
         "Release": "9/30/2022",
         "Forces": [
             24
@@ -8267,9 +8264,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4567,
-        "MaxEP": 34025,
-        "Tier": "S"
-    },
+        "MaxEP": 34025
+        },
     "Rain1": {
         "New": false,
         "Octagram": false,
@@ -8308,9 +8304,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.             Increases critical damage by 4% ",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.             Increases HP by 180  Increases ATK by 90  Increases DEF by 52 ",
         "MinEP": 4674,
-        "MaxEP": 29674,
-        "Tier": "A"
-    },
+        "MaxEP": 29674
+        },
     "Guy3": {
         "New": false,
         "Octagram": false,
@@ -8343,9 +8338,8 @@
         "Trait1": "HP - DEF DOWN (5★ Awaken x1):When 1 or more vanguard have 70% or lower HP, decreases all targets' DEF by 6% at start of turn (available in support formation)",
         "Trait1A": "HP - DEF DOWN (5★ Awaken x3):When 1 or more vanguard have 70% or lower HP, decreases all targets' DEF by 9% at start of turn (available in support formation)",
         "MinEP": 1944,
-        "MaxEP": 13151,
-        "Tier": "SSS"
-    },
+        "MaxEP": 13151
+        },
     "Velzard2": {
         "New": false,
         "Octagram": false,
@@ -8389,9 +8383,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4585,
-        "MaxEP": 34044,
-        "Tier": "S"
-    },
+        "MaxEP": 34044
+        },
     "Daggrull2": {
         "New": false,
         "Octagram": true,
@@ -8437,9 +8430,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Earth Mercy:Increases own following status in accordance with the number of earth characters assigned to battle slots.Increases HP by 256Increases ATK by 72Increases DEF by 72",
         "MinEP": 6471,
-        "MaxEP": 37145,
-        "Tier": "A"
-    },
+        "MaxEP": 37145
+        },
     "Misery1": {
         "Name": "Misery [The Green Progenitor]",
         "Icon": "/images/15e2b4a6-f91f-42ab-8c7c-7cffa3b2516a.png",
@@ -8494,7 +8486,6 @@
         "EP": 23746,
         "MinEP": 2465,
         "MaxEP": 23746,
-        "Tier": "B",
         "Release": "8/30/2022",
         "Forces": [
             27
@@ -8589,9 +8580,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shuna is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Water Blessing:Increases other troop members' following status in accordance with the number of water characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4713,
-        "MaxEP": 29743,
-        "Tier": "SS"
-    },
+        "MaxEP": 29743
+        },
     "Milim9": {
         "New": false,
         "Octagram": false,
@@ -8624,9 +8614,8 @@
         "Trait1": "HP - Critical Resistance DOWN (5★ Awaken x1):When 3 vanguard have 75% or more HP, decreases all targets' critical resistance by 6% at start of turn (available in support formation)",
         "Trait1A": "HP - Critical Resistance DOWN (5★ Awaken x3):When 3 vanguard have 75% or more HP, decreases all targets' critical resistance by 9% at start of turn (available in support formation)",
         "MinEP": 1865,
-        "MaxEP": 13071,
-        "Tier": "SSS"
-    },
+        "MaxEP": 13071
+        },
     "Shuna7": {
         "New": false,
         "Octagram": false,
@@ -8670,9 +8659,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.             Increases critical damage by 4% ",
         "EXAbility2": "Water Mercy:Increases own following status in accordance with the number of water characters assigned to battle slots.             Increases HP by 180  Increases ATK by 90  Increases DEF by 52 ",
         "MinEP": 4676,
-        "MaxEP": 29676,
-        "Tier": "SSS"
-    },
+        "MaxEP": 29676
+        },
     "Rimuru11": {
         "Name": "Rimuru Tempest [Lord of Sun and Fun]",
         "Icon": "/images/5d270f67-2a4f-4598-b86d-843673fa2d26.png",
@@ -8727,7 +8715,6 @@
         "EP": 23685,
         "MinEP": 2396,
         "MaxEP": 23685,
-        "Tier": "A",
         "Release": "7/29/2022",
         "Forces": [
             28
@@ -8775,9 +8762,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.             Increases critical damage by 4% ",
         "EXAbility2": "Wind Mercy:Increases own following status in accordance with the number of wind characters assigned to battle slots.             Increases HP by 180  Increases ATK by 90  Increases DEF by 52 ",
         "MinEP": 4792,
-        "MaxEP": 29793,
-        "Tier": "S"
-    },
+        "MaxEP": 29793
+        },
     "Treyni2": {
         "New": false,
         "Octagram": false,
@@ -8854,9 +8840,8 @@
         "Trait1": "HP - Critical Resistance DOWN (5★ Awaken x1):When 3 vanguard have 75% or more HP, decreases all targets' critical resistance by 6% at start of turn (available in support formation)",
         "Trait1A": "HP - Critical Resistance DOWN (5★ Awaken x3):When 3 vanguard have 75% or more HP, decreases all targets' critical resistance by 9% at start of turn (available in support formation)",
         "MinEP": 1930,
-        "MaxEP": 13150,
-        "Tier": "SS"
-    },
+        "MaxEP": 13150
+        },
     "Diablo3": {
         "New": false,
         "Octagram": false,
@@ -8900,9 +8885,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Wind Mercy:Increases own following status in accordance with the number of wind characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4732,
-        "MaxEP": 29733,
-        "Tier": "SS"
-    },
+        "MaxEP": 29733
+        },
     "Luminus3": {
         "New": false,
         "Octagram": true,
@@ -8949,9 +8933,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases counter power by 8%",
         "EXAbility2": "Dark Mercy:Increases own following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 256Increases ATK by 72Increases DEF by 72",
         "MinEP": 6515,
-        "MaxEP": 37189,
-        "Tier": "SS"
-    },
+        "MaxEP": 37189
+        },
     "Geld2": {
         "Name": "Geld [The Terrible Experiment]",
         "Icon": "/images/a15f30e1-f6a3-4fc5-93b7-41d5fe98590a.png",
@@ -9006,7 +8989,6 @@
         "EP": 23686.5,
         "MinEP": 2406,
         "MaxEP": 23686,
-        "Tier": "B",
         "Release": "6/30/2022",
         "Forces": [
             33
@@ -9052,9 +9034,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Light Mercy:Increases own following status in accordance with the number of light characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4767,
-        "MaxEP": 29768,
-        "Tier": "S"
-    },
+        "MaxEP": 29768
+        },
     "Rimuru3": {
         "New": false,
         "Octagram": false,
@@ -9097,9 +9078,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shinsha is assigned to a battle slot.Increases guard power by 8%",
         "EXAbility2": "Light Mercy:Increases own following status in accordance with the number of light characters assigned to battle slots.Increases HP by 256Increases ATK by 72Increases DEF by 72",
         "MinEP": 4792,
-        "MaxEP": 29794,
-        "Tier": "A"
-    },
+        "MaxEP": 29794
+        },
     "Shion2": {
         "New": false,
         "Octagram": false,
@@ -9144,9 +9124,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Light Mercy:Increases own following status in accordance with the number of light characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4724,
-        "MaxEP": 29725,
-        "Tier": "SS"
-    },
+        "MaxEP": 29725
+        },
     "Shizue3": {
         "New": false,
         "Octagram": false,
@@ -9179,9 +9158,8 @@
         "Trait1": "HP - Pierce Resistance DOWN (5* Awaken x1):\n    When 3 vanguard have 75% or more HP, decreases all targets' pierce resistance by 6% at start of turn.",
         "Trait1A": "HP - Pierce Resistance DOWN (5* Awaken x3):\n    When 3 vanguard have 75% or more HP, decreases all targets' pierce resistance by 9% at start of turn.",
         "MinEP": 13107,
-        "MaxEP": 13107,
-        "Tier": "SSS"
-    },
+        "MaxEP": 13107
+        },
     "Shinsha1": {
         "Name": "Shinsha [Precocious Bride]",
         "Art": "/images/6e9cb9d1-35b9-49b3-91d9-ac9f9bee61c6.png",
@@ -9235,7 +9213,6 @@
         "EP": 23691,
         "MinEP": 23691,
         "MaxEP": 23691,
-        "Tier": "B",
         "Release": "5/31/2022",
         "Forces": [
             30
@@ -9283,9 +9260,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases counter power by 8%",
         "EXAbility2": "Dark Mercy:Increases own following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4724,
-        "MaxEP": 29725,
-        "Tier": "SS"
-    },
+        "MaxEP": 29725
+        },
     "Rimuru9": {
         "New": false,
         "Octagram": false,
@@ -9318,9 +9294,8 @@
         "Trait1": "Effect - DEF UP (5* Awaken x1):\n    When 1 or more enemies are affected by ATK UP, increases all allies' DEF by 6% at start of turn.",
         "Trait1A": "Effect - DEF UP (5* Awaken x3):\n    When 1 or more enemies are affected by ATK UP, increases all allies' DEF by 9% at start of turn.",
         "MinEP": 12864,
-        "MaxEP": 12864,
-        "Tier": "S"
-    },
+        "MaxEP": 12864
+        },
     "Grucius1": {
         "New": false,
         "Octagram": false,
@@ -9442,9 +9417,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4707,
-        "MaxEP": 34162,
-        "Tier": "SS"
-    },
+        "MaxEP": 34162
+        },
     "Masked1": {
         "New": false,
         "Octagram": false,
@@ -9487,9 +9461,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4751,
-        "MaxEP": 34205,
-        "Tier": "SSS"
-    },
+        "MaxEP": 34205
+        },
     "Milim3": {
         "New": false,
         "Octagram": false,
@@ -9533,9 +9506,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4742,
-        "MaxEP": 34196,
-        "Tier": "SS"
-    },
+        "MaxEP": 34196
+        },
     "Veldora3": {
         "New": false,
         "Octagram": false,
@@ -9568,9 +9540,8 @@
         "Trait1": "HP - ATK UP (5★ Awaken x1):When 1 or more enemies have 50% or lower HP, increases all allies' ATK by 4% at start of turn (available in support formation)",
         "Trait1A": "HP - ATK UP (5★ Awaken x3):When 1 or more enemies have 50% or lower HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "MinEP": 1926,
-        "MaxEP": 13146,
-        "Tier": "SSS"
-    },
+        "MaxEP": 13146
+        },
     "Frey1": {
         "Name": "Frey [The Sky Queen]",
         "Release": "4/25/2022",
@@ -9619,7 +9590,6 @@
         "EP": 23691,
         "MinEP": 23691,
         "MaxEP": 23691,
-        "Tier": "A",
         "Forces": [
             16
         ],
@@ -9672,9 +9642,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Light Mercy:Increases own following status in accordance with the number of light characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 6557,
-        "MaxEP": 37224,
-        "Tier": "S"
-    },
+        "MaxEP": 37224
+        },
     "Luminus2": {
         "New": false,
         "Octagram": false,
@@ -9719,9 +9688,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Earth Blessing:Increases other troop members' following status in accordance with the number of earth characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4706,
-        "MaxEP": 34161,
-        "Tier": "SS"
-    },
+        "MaxEP": 34161
+        },
     "Souei1": {
         "New": false,
         "Octagram": false,
@@ -9764,9 +9732,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Benimaru is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Earth Blessing:Increases other troop members' following status in accordance with the number of earth characters assigned to battle slots.             Increases HP by 64  Increases ATK by 18  Increases DEF by 18 ",
         "MinEP": 29715,
-        "MaxEP": 29715,
-        "Tier": "S"
-    },
+        "MaxEP": 29715
+        },
     "Hakurou3": {
         "New": false,
         "Octagram": false,
@@ -9799,9 +9766,8 @@
         "Trait1": "HP - DEF DOWN (5★ Awaken x1):When 3 vanguard have 75% or more HP, decreases all targets' DEF by 4% at start of turn (available in support formation)",
         "Trait1A": "HP - DEF DOWN (5★ Awaken x3):When 3 vanguard have 75% or more HP, decreases all targets' DEF by 6% at start of turn (available in support formation)",
         "MinEP": 1730,
-        "MaxEP": 14891,
-        "Tier": "SSS"
-    },
+        "MaxEP": 14891
+        },
     "Benimaru2": {
         "New": false,
         "Octagram": false,
@@ -9844,9 +9810,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Souei is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Earth Blessing:Increases other troop members' following status in accordance with the number of earth characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29679,
-        "MaxEP": 29679,
-        "Tier": "S"
-    },
+        "MaxEP": 29679
+        },
     "Albis1": {
         "Name": "Albis [The Golden Serpent]",
         "Release": "3/30/2022",
@@ -9896,7 +9861,6 @@
         "EP": 23659.5,
         "MinEP": 23659,
         "MaxEP": 23659,
-        "Tier": "C",
         "Forces": [
             7
         ]
@@ -9947,9 +9911,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Fire Mercy:Increases own following status in accordance with the number of fire characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 6532,
-        "MaxEP": 37199,
-        "Tier": "S"
-    },
+        "MaxEP": 37199
+        },
     "Velzard1": {
         "New": false,
         "Octagram": false,
@@ -9991,9 +9954,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Water Blessing:Increases other troop members' following status in accordance with the number of water characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4718,
-        "MaxEP": 34172,
-        "Tier": "SS"
-    },
+        "MaxEP": 34172
+        },
     "Rimuru5": {
         "New": false,
         "Octagram": false,
@@ -10037,9 +9999,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Ranga is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Water Blessing:Increases other troop members' following status in accordance with the number of water characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4705,
-        "MaxEP": 29707,
-        "Tier": "S"
-    },
+        "MaxEP": 29707
+        },
     "Chloe2": {
         "New": false,
         "Octagram": false,
@@ -10073,9 +10034,8 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 15% (Turns: 2; Uses by this character per battle: 1)",
         "Trait1A": "HP - DEF DOWN (5★ Awaken x1):When 3 vanguard have 50% or lower HP, decreases all targets' DEF by 3% at start of turn (available in support formation)",
         "MinEP": 1735,
-        "MaxEP": 14704,
-        "Tier": "SS"
-    },
+        "MaxEP": 14704
+        },
     "Alice1": {
         "New": false,
         "Octagram": false,
@@ -10120,9 +10080,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Water Blessing:Increases other troop members' following status in accordance with the number of water characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4715,
-        "MaxEP": 34169,
-        "Tier": "SS"
-    },
+        "MaxEP": 34169
+        },
     "Ranga2": {
         "Name": "Ranga [Loyal Horn]",
         "Release": "2/28/2022",
@@ -10172,7 +10131,6 @@
         "EP": 23641,
         "MinEP": 23641,
         "MaxEP": 23641,
-        "Tier": "C",
         "Forces": [
             33
         ]
@@ -10219,8 +10177,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Light Blessing:Increases other troop members' following status in accordance with the number of light characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4719,
-        "MaxEP": 34173,
-        "Tier": "S"
+        "MaxEP": 34173
     },
     "Hinata1": {
         "New": false,
@@ -10267,8 +10224,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases guard power by 4%Increases counter power by 4%",
         "EXAbility2": "Light Blessing:Increases other troop members' following status in accordance with the number of light characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4718,
-        "MaxEP": 34172,
-        "Tier": "A"
+        "MaxEP": 34172
     },
     "Shizue1": {
         "New": false,
@@ -10315,8 +10271,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shuna is assigned to a battle slot.Increases guard power by 4%Increases counter power by 4%",
         "EXAbility2": "Light Blessing:Increases other troop members' following status in accordance with the number of light characters assigned to battle slots.Increases HP by 54Increases ATK by 14Increases DEF by 30",
         "MinEP": 4671,
-        "MaxEP": 34126,
-        "Tier": "B"
+        "MaxEP": 34126
     },
     "Soka1": {
         "New": false,
@@ -10351,9 +10306,8 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 15% (Turns: 2; Uses by this character per battle: 1)",
         "Trait1A": "HP - Critical Resistance (5★ Awaken x1):When 3 vanguard have 50% or more HP, increases all allies' critical resistance by 10% at start of turn (available in support formation)",
         "MinEP": 1706,
-        "MaxEP": 14867,
-        "Tier": "S"
-    },
+        "MaxEP": 14867
+        },
     "Myulan1": {
         "Name": "Myulan [Leisurely Lady]",
         "Release": "01/28/2022",
@@ -10403,7 +10357,6 @@
         "EP": 23647.5,
         "MinEP": 23647,
         "MaxEP": 23647,
-        "Tier": "C",
         "Forces": [
             19
         ]
@@ -10450,8 +10403,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Fire Blessing:Increases other troop members' following status in accordance with the number of fire characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29719,
-        "MaxEP": 29719,
-        "Tier": "S"
+        "MaxEP": 29719
     },
     "Gobta1": {
         "New": false,
@@ -10493,8 +10445,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Benimaru is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Fire Blessing:Increases other troop members' following status in accordance with the number of fire characters assigned to battle slots.             Increases HP by 64  Increases ATK by 18  Increases DEF by 18 ",
         "MinEP": 29597,
-        "MaxEP": 29597,
-        "Tier": "A"
+        "MaxEP": 29597
     },
     "Milim2": {
         "New": false,
@@ -10540,8 +10491,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Gobta is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Fire Blessing:Increases other troop members' following status in accordance with the number of fire characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4714,
-        "MaxEP": 34169,
-        "Tier": "S"
+        "MaxEP": 34169
     },
     "Rimuru10": {
         "New": false,
@@ -10575,8 +10525,7 @@
         "Trait1": "HP - DEF DOWN (5* Awaken x1):\n    When 3 vanguard have 50% or more HP, decreases all targets' DEF by 3% at start of turn.",
         "Trait1A": "HP - DEF DOWN (5* Awaken x3):\n    When 3 vanguard have 50% or more HP, decreases all targets' DEF by 5% at start of turn.",
         "MinEP": 12922,
-        "MaxEP": 12922,
-        "Tier": "S"
+        "MaxEP": 12922
     },
     "Shuna5": {
         "Name": "Shuna [The Holy Sunrise]",
@@ -10627,7 +10576,6 @@
         "EP": 23657.5,
         "MinEP": 23657,
         "MaxEP": 23657,
-        "Tier": "C",
         "Forces": [
             20
         ]
@@ -10678,8 +10626,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases counter power by 8%",
         "EXAbility2": "Wind Mercy:Increases own following status in accordance with the number of wind characters assigned to battle slots.Increases HP by 216Increases ATK by 60Increases DEF by 120",
         "MinEP": 6469,
-        "MaxEP": 37139,
-        "Tier": "S"
+        "MaxEP": 37139
     },
     "Veldora1": {
         "New": false,
@@ -10721,8 +10668,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Wind Blessing:Increases other troop members' following status in accordance with the number of wind characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29627,
-        "MaxEP": 29627,
-        "Tier": "A"
+        "MaxEP": 29627
     },
     "Rimuru2": {
         "New": false,
@@ -10767,8 +10713,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Wind Blessing:Increases other troop members' following status in accordance with the number of wind characters assigned to battle slots.Increases HP by 54Increases ATK by 14Increases DEF by 30",
         "MinEP": 4604,
-        "MaxEP": 29604,
-        "Tier": "B"
+        "MaxEP": 29604
     },
     "Luminus1": {
         "New": false,
@@ -10813,8 +10758,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases guard power by 4%Increases counter power by 4%",
         "EXAbility2": "Wind Blessing:Increases other troop members' following status in accordance with the number of wind characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4646,
-        "MaxEP": 34099,
-        "Tier": "S"
+        "MaxEP": 34099
     },
     "Shuna6": {
         "New": false,
@@ -10849,8 +10793,7 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 15% (Turns: 2; Uses by this character per battle: 1)",
         "Trait1A": "Combo - Pierce Resistance (5★ Awaken x1):When the enemy makes a combo attack, increases all allies' pierce resistance by 10% at start of the next turn (available in support formation)",
         "MinEP": 1662,
-        "MaxEP": 14991,
-        "Tier": "A"
+        "MaxEP": 14991
     },
     "Shion4": {
         "Name": "Shion [The Bold Servant]",
@@ -10951,8 +10894,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Dark Blessing:Increases other troop members' following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4645,
-        "MaxEP": 29646,
-        "Tier": "A"
+        "MaxEP": 29646
     },
     "Milim4": {
         "New": false,
@@ -10997,8 +10939,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Dark Blessing:Increases other troop members' following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4681,
-        "MaxEP": 34136,
-        "Tier": "A"
+        "MaxEP": 34136
     },
     "Veldora2": {
         "New": false,
@@ -11042,8 +10983,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.             Increases guard power by 4%  Increases counter power by 4% ",
         "EXAbility2": "Dark Blessing:Increases other troop members' following status in accordance with the number of dark characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29690,
-        "MaxEP": 29690,
-        "Tier": "SS"
+        "MaxEP": 29690
     },
     "Diablo1": {
         "New": false,
@@ -11087,8 +11027,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Dark Blessing:Increases other troop members' following status in accordance with the number of dark characters assigned to battle slots.             Increases HP by 64  Increases ATK by 18  Increases DEF by 18 ",
         "MinEP": 29647,
-        "MaxEP": 29647,
-        "Tier": "S"
+        "MaxEP": 29647
     },
     "Shion6": {
         "New": false,
@@ -11123,8 +11062,7 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 15% (Turns: 2; Uses by this character per battle: 1)",
         "Trait1A": "HP - DEF DOWN (5★ Awaken x1):When 3 vanguard have 75% or more HP, decreases all targets' DEF by 4% at start of turn (available in support formation)",
         "MinEP": 1662,
-        "MaxEP": 14632,
-        "Tier": "S"
+        "MaxEP": 14632
     },
     "Benimaru5": {
         "Name": "Benimaru [Crimson Ogre Warrior]",
@@ -11175,7 +11113,6 @@
         "EP": 23375.5,
         "MinEP": 23375,
         "MaxEP": 23375,
-        "Tier": "C",
         "Forces": [
             31
         ]
@@ -11226,8 +11163,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 6507,
-        "MaxEP": 37174,
-        "Tier": "S"
+        "MaxEP": 37174
     },
     "Treyni1": {
         "New": false,
@@ -11272,8 +11208,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Trya is assigned to a battle slot.Increases guard power by 4%Increases counter power by 4%",
         "EXAbility2": "Earth Blessing:Increases other troop members' following status in accordance with the number of earth characters assigned to battle slots.Increases HP by 54Increases ATK by 14Increases DEF by 30",
         "MinEP": 4684,
-        "MaxEP": 34139,
-        "Tier": "A"
+        "MaxEP": 34139
     },
     "Rimuru1": {
         "New": false,
@@ -11319,8 +11254,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Souei is assigned to a battle slot.             Increases guard power by 4%  Increases counter power by 4% ",
         "EXAbility2": "Water Blessing:Increases other troop members' following status in accordance with the number of water characters assigned to battle slots.             Increases HP by 54  Increases ATK by 14  Increases DEF by 30 ",
         "MinEP": 29678,
-        "MaxEP": 29678,
-        "Tier": "A"
+        "MaxEP": 29678
     },
     "Shizue2": {
         "New": false,
@@ -11367,8 +11301,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Fire Blessing:Increases other troop members' following status in accordance with the number of fire characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4674,
-        "MaxEP": 34127,
-        "Tier": "A"
+        "MaxEP": 34127
     },
     "Rimuru4": {
         "New": false,
@@ -11416,8 +11349,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Ranga is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Space Blessing:Increases other troop members' following status in accordance with the number of space characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4688,
-        "MaxEP": 29689,
-        "Tier": "SS"
+        "MaxEP": 29689
     },
     "Shuna1": {
         "New": false,
@@ -11462,8 +11394,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Benimaru is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Light Blessing:Increases other troop members' following status in accordance with the number of light characters assigned to battle slots.Increases HP by 64Increases ATK by 18Increases DEF by 18",
         "MinEP": 4662,
-        "MaxEP": 34116,
-        "Tier": "A"
+        "MaxEP": 34116
     },
     "Souei2": {
         "New": false,
@@ -11508,8 +11439,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Water Blessing:Increases other troop members' following status in accordance with the number of water characters assigned to battle slots.             Increases HP by 64  Increases ATK by 18  Increases DEF by 18 ",
         "MinEP": 29658,
-        "MaxEP": 29658,
-        "Tier": "A"
+        "MaxEP": 29658
     },
     "Beretta1": {
         "New": false,
@@ -11550,8 +11480,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Dark Blessing:Increases other troop members' following status in accordance with the number of dark characters assigned to battle slots.             Increases HP by 64  Increases ATK by 18  Increases DEF by 18 ",
         "MinEP": 29649,
-        "MaxEP": 29649,
-        "Tier": "A"
+        "MaxEP": 29649
     },
     "Ranga1": {
         "New": false,
@@ -11593,8 +11522,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Space Blessing:Increases other troop members' following status in accordance with the number of space characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29658,
-        "MaxEP": 29658,
-        "Tier": "B"
+        "MaxEP": 29658
     },
     "Shion1": {
         "New": false,
@@ -11638,8 +11566,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Benimaru is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Dark Blessing:Increases other troop members' following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4663,
-        "MaxEP": 34117,
-        "Tier": "S"
+        "MaxEP": 34117
     },
     "Hakurou1": {
         "New": false,
@@ -11683,8 +11610,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shuna is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Wind Blessing:Increases other troop members' following status in accordance with the number of wind characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29664,
-        "MaxEP": 29664,
-        "Tier": "A"
+        "MaxEP": 29664
     },
     "Milim5": {
         "New": false,
@@ -11726,8 +11652,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Earth Blessing:Increases other troop members' following status in accordance with the number of earth characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4670,
-        "MaxEP": 34125,
-        "Tier": "A"
+        "MaxEP": 34125
     },
     "Benimaru1": {
         "New": false,
@@ -11772,8 +11697,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shuna is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Fire Blessing:Increases other troop members' following status in accordance with the number of fire characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29679,
-        "MaxEP": 29679,
-        "Tier": "A"
+        "MaxEP": 29679
     },
     "Gazel1": {
         "New": false,
@@ -11818,8 +11742,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.             Increases critical damage by 2%  Increases pierce power by 2% ",
         "EXAbility2": "Light Blessing:Increases other troop members' following status in accordance with the number of light characters assigned to battle slots.             Increases HP by 45  Increases ATK by 20  Increases DEF by 12 ",
         "MinEP": 29683,
-        "MaxEP": 29683,
-        "Tier": "SS"
+        "MaxEP": 29683
     },
     "Milim6": {
         "New": false,
@@ -11863,8 +11786,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Gobta is assigned to a battle slot.Increases critical damage by 2%Increases pierce power by 2%",
         "EXAbility2": "Wind Blessing:Increases other troop members' following status in accordance with the number of wind characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4683,
-        "MaxEP": 34137,
-        "Tier": "SS"
+        "MaxEP": 34137
     },
     "Shuna2": {
         "Release": "10/28/2021",
@@ -11914,7 +11836,6 @@
         "EP": 24833,
         "MinEP": 24833,
         "MaxEP": 24833,
-        "Tier": "B",
         "Forces": [
             31
         ],
@@ -12238,8 +12159,7 @@
         "EXAbility2": "Water Blessing:Increases other troop members' following status in accordance with the number of water characters assigned to battle slots.             Increases HP by 64  Increases ATK by 18  Increases DEF by 18 ",
         "EP": 24900,
         "MinEP": 24900,
-        "MaxEP": 24900,
-        "Tier": "B"
+        "MaxEP": 24900
     },
     "Chloe1": {
         "New": false,
@@ -13074,8 +12994,7 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 15% (Turns: 2; Uses by this character per battle: 1)",
         "Trait1A": "HP - Critical Resistance (5★ Awaken x1):When 3 vanguard have 50% or more HP, increases all allies' critical resistance by 10% at start of turn (available in support formation)",
         "MinEP": 1694,
-        "MaxEP": 15023,
-        "Tier": "A"
+        "MaxEP": 15023
     },
     "Elemental1": {
         "New": false,
@@ -13109,8 +13028,7 @@
         "Trait1": "HP - Pierce Resistance (5* Awaken x1):\n    When 3 vanguard have 50% or more HP, increases all allies' pierce resistance by 10% at the start of turn.",
         "Trait1A": "HP - Pierce Resistance (5* Awaken x3):\n    When 3 vanguard have 50% or more HP, increases all allies' pierce resistance by 15% at the start of turn.",
         "MinEP": 13076,
-        "MaxEP": 13076,
-        "Tier": "S"
+        "MaxEP": 13076
     },
     "Veldora4": {
         "New": false,
@@ -13144,8 +13062,7 @@
         "Trait1": "HP - Critical Rate UP (5* Awaken x1):\n    When 3 vanguard have 50% or lower HP, increases all allies' critical rate by 8% at start of turn.",
         "Trait1A": "HP - Critical Rate UP (5* Awaken x3):\n    When 3 vanguard have 50% or lower HP, increases all allies' critical rate by 12% at start of turn.",
         "MinEP": 12932,
-        "MaxEP": 12932,
-        "Tier": "A"
+        "MaxEP": 12932
     },
     "Orc1": {
         "New": false,
@@ -13179,8 +13096,7 @@
         "Trait1": "Effect - Pierce Resistance DOWN (5* Awaken x1):\n    When 1 or more enemies are affected by DEF UP, decreases all targets' pierce resistance by 7% at start of turn.",
         "Trait1A": "Effect - Pierce Resistance DOWN (5* Awaken x3):\n    When 1 or more enemies are affected by DEF UP, decreases all targets' pierce resistance by 11% at start of turn.",
         "MinEP": 12888,
-        "MaxEP": 12888,
-        "Tier": "SS"
+        "MaxEP": 12888
     },
     "Charybdis1": {
         "New": false,
@@ -13214,8 +13130,7 @@
         "Trait1": "Effect - DEF DOWN (5* Awaken x1):\n    When 1 or more enemies are affected by Guard Rate UP, decreases all targets' DEF by 4% at start of turn.",
         "Trait1A": "Effect - DEF DOWN (5* Awaken x3):\n    When 1 or more enemies are affected by Guard Rate UP, decreases all targets' DEF by 6% at start of turn.",
         "MinEP": 12878,
-        "MaxEP": 12878,
-        "Tier": "SS"
+        "MaxEP": 12878
     },
     "Ifrit1": {
         "New": false,
@@ -13250,8 +13165,7 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 15% (Turns: 2; Uses by this character per battle: 1)",
         "Trait1A": "HP - DEF DOWN (5★ Awaken x1):When 3 vanguard have 75% or more HP, decreases all targets' DEF by 4% at start of turn (available in support formation)",
         "MinEP": 1689,
-        "MaxEP": 14659,
-        "Tier": "A"
+        "MaxEP": 14659
     },
     "Ramiris2": {
         "New": false,
@@ -13286,8 +13200,7 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 15% (Turns: 2; Uses by this character per battle: 1)",
         "Trait1A": "HP - ATK UP (5★ Awaken x1):When 3 vanguard have 75% or more HP, increases all allies' ATK by 4% at start of turn (available in support formation)",
         "MinEP": 1683,
-        "MaxEP": 14653,
-        "Tier": "S"
+        "MaxEP": 14653
     },
     "Sky1": {
         "New": false,
