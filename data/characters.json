@@ -310,7 +310,7 @@
                 "EXAbility2": "",
                 "MinEP": 5015,
                 "MaxEP": 36511,
-                "Tier": "A"
+                "Tier": "SS"
             },
             "Shizu4": {
                 "New": true,
@@ -390,7 +390,7 @@
                     "EXAbility2": "Magic Blessing: Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
                     "MinEP": 5015,
                     "MaxEP": 36511,
-                    "Tier": "A"
+                    "Tier": "SS"
                 },
             "Masayuki3": {
                 "New": true,
@@ -460,7 +460,7 @@
                 "UnitType": "Protection Characters",
                 "MinEP": 900,
                 "MaxEP": 11600,
-                "Tier": "A"
+                "Tier": "SS"
             },
             "Gobta5": {
                 "New": true,
@@ -542,7 +542,7 @@
                 "EXAbility2": "Physical Blessing: Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
                 "MinEP": 5015,
                 "MaxEP": 36511,
-                "Tier": "A"
+                "Tier": "S"
             },
             "Shinsha7": {
                 "New": true,
@@ -2363,7 +2363,7 @@
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4989,
         "MaxEP": 35486,
-        "Tier": "A"
+        "Tier": "SS"
     },
     "Maribel1": {
         "New": true,
