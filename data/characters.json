@@ -80,7 +80,7 @@
                 "EXAbility2": "",
                 "MinEP": 5015,
                 "MaxEP": 36511,
-                "Tier": "A"
+                "Tier": "SS"
             },
             "Shion13": {
                 "New": true,
@@ -3743,7 +3743,7 @@
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2083,
         "MaxEP": 15719,
-        "Tier": "SSS"
+        "Tier": "SS"
     },
     "Ainz1": {
         "New": true,
@@ -5061,7 +5061,7 @@
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1987,
         "MaxEP": 15612,
-        "Tier": "SS"
+        "Tier": "S"
     },
     "Rimuru20": {
         "New": true,
