@@ -160,7 +160,7 @@
                 "EXAbility2": "",
                 "MinEP": 5015,
                 "MaxEP": 36511,
-                "Tier": "S"
+                "Tier": "SS"
             },
             "Shuna15": {
                 "New": true,
@@ -269,7 +269,7 @@
                 "EXAbility2": "",
                 "MinEP": 5015,
                 "MaxEP": 36511,
-                "Tier": "S"
+                "Tier": "SS"
             },
             "Yuuki3": {
                 "New": true,
@@ -623,7 +623,7 @@
                   "EXAbility2": "Physical Blessing: Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
                   "MinEP": 5015,
                   "MaxEP": 36511,
-                "Tier": "S"
+                "Tier": "SSS"
               },
             "VeldoraStal1": {
                 "New": true,
@@ -773,7 +773,7 @@
             "EXAbility2": "Magic Blessing: Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
             "MinEP": 5015,
             "MaxEP": 36511,
-            "Tier": "S"
+            "Tier": "SS"
         },
         "Stark1": {
             "New": true,
@@ -1850,7 +1850,7 @@
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2104,
         "MaxEP": 15740,
-        "Tier": "SS"
+        "Tier": "A"
     },
     "Rimuru29": {
         "New": true,
@@ -4459,7 +4459,7 @@
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4993,
         "MaxEP": 35490,
-        "Tier": "SS"
+        "Tier": "S"
     },
     "Rimuru22": {
         "New": true,
@@ -4577,7 +4577,7 @@
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2079,
         "MaxEP": 15715,
-        "Tier": "SS"
+        "Tier": "S"
     },
     "Violet3": {
         "New": true,
@@ -4624,7 +4624,7 @@
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4993,
         "MaxEP": 35490,
-        "Tier": "SS"
+        "Tier": "S"
     },
     "Rimuru21": {
         "New": true,
