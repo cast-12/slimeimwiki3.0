@@ -961,7 +961,8 @@
             "EXAbility1": "Individual Mercy: Increases own following status when Guy Crimson is assigned to a battle slot. Increases critical rate by 12%",
             "EXAbility2": "Magic Blessing: Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
             "MinEP": 5015,
-            "MaxEP": 36511
+            "MaxEP": 36511,
+            "Tier": "C"
         },
         "Mariabell5": {
             "New": true,
@@ -1001,7 +1002,8 @@
             "EXAbility1": "Individual Mercy: Increases own following status when Rimuru Tempest is assigned to a battle slot. Increases guard power by 12%",
             "EXAbility2": "Physical Blessing: Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
             "MinEP": 5015,
-            "MaxEP": 36511
+            "MaxEP": 36511,
+            "Tier": "C"
         },       
           "Ritus3": {
             "New": true,
@@ -1194,7 +1196,8 @@
                "EXAbility1": "Individual Mercy: Increases own following status when Rimuru Tempest is assigned to a battle slot. Increases synergy power by 12%",
                "EXAbility2": "Magic Blessing: Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 378, ATK by 190, DEF by 110",
                "MinEP": 5016,
-               "MaxEP": 36512
+               "MaxEP": 36512,
+                "Tier": "C"
            },
            "Masked4": {
                "New": true,
@@ -1926,7 +1929,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Physical Blessing:Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 5016,
-        "MaxEP": 35513
+        "MaxEP": 35513,
+        "Tier": "C"
     },
     "Frey3": {
         "New": true,
@@ -2176,7 +2180,9 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Hakurou is assigned to a battle slot.Increases pierce power by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4995,
-        "MaxEP": 35492
+        "MaxEP": 35492,
+        "Tier": "C"
+        
     },
     "Albis4": {
         "New": true,
@@ -2298,7 +2304,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rigur is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4990,
-        "MaxEP": 35487
+        "MaxEP": 35487,
+        "Tier": "C"
     },
     "Elmesia1": {
         "New": true,
@@ -2425,7 +2432,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases guard power by 12%",
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 108Increases ATK by 28Increases DEF by 60",
         "MinEP": 4990,
-        "MaxEP": 35429
+        "MaxEP": 35429,
+        "Tier": "C"
     },
     "Ritus1": {
         "New": true,
@@ -2547,7 +2555,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4995,
-        "MaxEP": 35492
+        "MaxEP": 35492,
+        "Teir": "B"
     },
     "Shizue9": {
         "New": true,
@@ -2925,7 +2934,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Veldora Tempest is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4995,
-        "MaxEP": 35492
+        "MaxEP": 35492,
+        "Tier": "C"
     },
     "Milim16": {
         "New": true,
@@ -2969,7 +2979,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Veldora Tempest is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4996,
-        "MaxEP": 35493
+        "MaxEP": 35493,
+        "Tier": "B"
     },
     "Kagali1": {
         "New": true,
@@ -3091,7 +3102,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Misery is assigned to a battle slot.Increases pierce power by 8%",
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4995,
-        "MaxEP": 35492
+        "MaxEP": 35492,
+        "Teir": "B"
     },
     "Jaune2": {
         "New": true,
@@ -3216,7 +3228,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Misery is assigned to a battle slot.Increases pierce power by 8%",
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4994,
-        "MaxEP": 35491
+        "MaxEP": 35491,
+        "Tier": "C"
     },
     "Rain3": {
         "New": true,
@@ -3755,7 +3768,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Narberal Gamma is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4993,
-        "MaxEP": 35490
+        "MaxEP": 35490,
+        "Teir": "B"
     },
     "Narberal1": {
         "New": true,
@@ -4254,7 +4268,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Tsubasa Ibuki is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4992,
-        "MaxEP": 35489
+        "MaxEP": 35489,
+        "Tier": "C"
     },
     "Tsubasa1": {
         "New": true,
@@ -4376,7 +4391,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4993,
-        "MaxEP": 35490
+        "MaxEP": 35490,
+        "Tier": "C"
     },
     "Blanc1": {
         "New": true,
@@ -4631,7 +4647,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Cliche is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4993,
-        "MaxEP": 35490
+        "MaxEP": 35490,
+        "Tier": "C"
     },
     "Hinata5": {
         "New": true,
@@ -4810,7 +4827,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Ranga is assigned to a battle slot.Increases pierce power by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4809,
-        "MaxEP": 35306
+        "MaxEP": 35306,
+        "Tier": "C"
     },
     "Ranga4": {
         "New": true,
@@ -5238,7 +5256,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Ramiris is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Physical Blessing:Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4809,
-        "MaxEP": 35306
+        "MaxEP": 35306,
+        "Tier": "C"
     },
     "Treyni3": {
         "New": true,
@@ -5322,7 +5341,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Ramiris is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4808,
-        "MaxEP": 35305
+        "MaxEP": 35305,
+        "Teir": "B"
     },
     "Ramiris4": {
         "New": true,
@@ -5752,7 +5772,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4807,
-        "MaxEP": 35304
+        "MaxEP": 35304,
+        "Tier": "C"
     },
     "Soka3": {
         "New": true,
@@ -5797,7 +5818,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shuna is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4807,
-        "MaxEP": 35304
+        "MaxEP": 35304,
+        "Tier": "C"
     },
     "Myulan4": {
         "New": true,
@@ -6055,7 +6077,7 @@
         "EXAbility2": "Physical Blessing:Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4807,
         "MaxEP": 35304,
-        "Tier": "A"
+        "Tier": "C"
     },
     "Velzard4": {
         "New": true,
@@ -6139,7 +6161,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Physical Blessing:Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4808,
-        "MaxEP": 35305
+        "MaxEP": 35305,
+        "Tier": "C"
     },
     "Guy4": {
         "New": true,
@@ -6442,7 +6465,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Gabiru is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4801,
-        "MaxEP": 35298
+        "MaxEP": 35298,
+        "Teir": "B"
     },
     "Rimuru16": {
         "New": true,
@@ -6477,7 +6501,8 @@
         "Trait1": "HP - DEF UP (5★ Awaken x1):When 3 vanguard have max HP, increases all allies' DEF by 10% at start of turn (available in support formation)",
         "Trait1A": "HP - DEF UP (5★ Awaken x3):When 3 vanguard have max HP, increases all allies' DEF by 15% at start of turn (available in support formation)",
         "MinEP": 2327,
-        "MaxEP": 16531
+        "MaxEP": 16531,
+        "Teir": "B"
     },
     "Souei5": {
         "New": true,
@@ -6605,7 +6630,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 8%",
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4805,
-        "MaxEP": 35302
+        "MaxEP": 35302,
+        "Teir": "B"
     },
     "Albis2": {
         "New": true,
@@ -7081,7 +7107,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Suphia is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4777,
-        "MaxEP": 34236
+        "MaxEP": 34236,
+        "Teir": "B"
     },
     "Suphia2": {
         "Name": "Suphia [Cooking Challenger]",
@@ -8474,7 +8501,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Earth Mercy:Increases own following status in accordance with the number of earth characters assigned to battle slots.Increases HP by 256Increases ATK by 72Increases DEF by 72",
         "MinEP": 6471,
-        "MaxEP": 37145
+        "MaxEP": 37145,
+        "Teir": "B"
         },
     "Misery1": {
         "Name": "Misery [The Green Progenitor]",
@@ -11211,7 +11239,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 6507,
-        "MaxEP": 37174
+        "MaxEP": 37174,
+        "Teir": "B"
     },
     "Treyni1": {
         "New": false,
