@@ -16,6 +16,8 @@ import FilterList from "@/components/filterList";
 import characters from "@/data/characters.json"
 import { Tier } from "@/components/tier";
 import CharacterIcon from "@/components/characterIcon";
+import { useRef } from "react";
+import html2canvas from "html2canvas";
 
 export default function Home({storage}) {
 	const [tierList, setTierList] = useState({
@@ -31,6 +33,7 @@ export default function Home({storage}) {
 	const [search, setSearch] = useState("");
 	const [descriptionsToggle, setDescriptionsToggle] = useState(false);
 	const router = useRouter();
+	const listRef = useRef();
 	const confirmFunction = search.length > 0
 			? (key) => {
 					const me = characters[key];
@@ -48,7 +51,7 @@ export default function Home({storage}) {
 					return false;
 			  }
 			: (() => true)
-
+	
 	// useEffect(() => {
 	// 	function handleClick(e) {
 	// 		//check if ancestor has tierlist-clickable class, if not then unset selectedCharacter
@@ -63,7 +66,33 @@ export default function Home({storage}) {
 	// 	window.addEventListener("click", handleClick);
 	// 	return () => window.removeEventListener("click", handleClick);
 	// }, []);
-
+	const downloadPNG = async () => {
+		const canvas = await html2canvas(listRef.current);
+		const link = document.createElement("a");
+		link.download = "tierlist.png";
+		link.href = canvas.toDataURL();
+		link.click();
+	};
+	
+	const exportJSON = () => {
+		const blob = new Blob([JSON.stringify(tierList)], { type: "application/json" });
+		const url = URL.createObjectURL(blob);
+		const link = document.createElement("a");
+		link.download = "tierlist.json";
+		link.href = url;
+		link.click();
+	};
+	
+	const importJSON = (e) => {
+		const file = e.target.files[0];
+		const reader = new FileReader();
+		reader.onload = (event) => {
+			const data = JSON.parse(event.target.result);
+			setTierList(data);
+		};
+		if (file) reader.readAsText(file);
+	};
+	
 	function NewCharacterIcon(props)
 		{
 			return (
@@ -159,8 +188,13 @@ export default function Home({storage}) {
 				</div>
 				<FilterList filter={filter} setFilter={setFilter} />
 				<Divider text={"TIER LIST"} />
-				<div className="flex flex-col gap-1 bg-color1 rounded">
-					{
+				<div className="flex flex-wrap gap-2 p-2">
+				<button onClick={downloadPNG}>Download PNG</button>
+				<button onClick={exportJSON}>Export JSON</button>
+				<input type="file" accept=".json" onChange={importJSON} />
+				</div>
+				<div ref={listRef} className="flex flex-col gap-1 bg-color1 rounded">
+				{
 						Object.keys(tierList).map((tier) => {
 							return (
 								<Tier
