@@ -188,6 +188,22 @@ export default function Home({storage}) {
 				</div>
 				<FilterList filter={filter} setFilter={setFilter} />
 				<Divider text={"TIER LIST"} />
+				{/* Hidden screenshot-only tier list */}
+				<div style={{ position: "absolute", left: "-9999px", top: 0 }}>
+				<div ref={listRef}>
+					{Object.keys(tierList).map((tier) => (
+					<Tier
+						key={tier}
+						tier={tier}
+						ignore={true}
+						filter={filter}
+						confirmFunction={(key) => confirmFunction(key) && tierList[tier].includes(key)}
+						AlternateCharacterIcon={NewCharacterIcon}
+					/>
+					))}
+					</div>
+				</div>
+
 				<div className="flex flex-wrap gap-2 p-2">
 				<button
 					onClick={downloadPNG}
