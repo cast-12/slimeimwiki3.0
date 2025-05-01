@@ -244,11 +244,20 @@ export default function Home({storage}) {
 						Object.keys(tierList).map((tier) => {
 							return (
 								<Tier
-									onClick={selectedCharacter ? () => {
+								onClick={selectedCharacter ? () => {
+										// Remove selected character from all tiers
+										const cleaned = Object.fromEntries(
+											Object.entries(tierList).map(([name, list]) => [
+												name,
+												list.filter((id) => id !== selectedCharacter),
+											])
+										);
+									
+										// Add to selected tier
 										setTierList({
-											...tierList,
-											[tier]: [...tierList[tier], selectedCharacter]
-										})
+											...cleaned,
+											[tier]: [...cleaned[tier], selectedCharacter],
+										});
 										setSelectedCharacter(null);
 									} : null}
 									className={(selectedCharacter ? "animate-pulse cursor-pointer hover:animate-none" : "") + " tierlist-clickable"}
