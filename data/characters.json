@@ -196,7 +196,8 @@
                 "Trait1A": "HP - ATK UP (6★ Awaken x3): When 3 vanguard have 75% or more HP, increases all allies' ATK by 9% at start of turn (available in support formation)",
                 "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5): Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
                 "MinEP": 2085,
-                "MaxEP": 16223
+                "MaxEP": 16223,
+                "Tier": "SSS"
             },
             "Treyni5": {
                 "New": true,
@@ -425,7 +426,8 @@
                 "Trait1A": "HP - DEF UP (6★ Awaken x3): When 3 vanguard have 75% or more HP, increases all allies' DEF by 12% at start of turn (available in support formation)",
                 "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5): Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
                 "MinEP": 2085,
-                "MaxEP": 16223
+                "MaxEP": 16223,
+                "Tier": "SSS"
             },
             "Carrion2": {
                 "New": true,
@@ -457,7 +459,8 @@
                 "ProtectionSkill": "Reckoning's Renewal Lv.1/Lv.10: Applies Healing Reckoning to all allies (Turns: 1); each time affected ally recovers HP, add Reckoning charge x2 (Each charge x1 deals 150% of affected allies' current HP in ongoing damage to all targets from turn 5 onward). Increases skill points by 20. Decreases the skill cost by 20 for vanguard allies (Cannot go below each skill's initial cost).",
                 "UnitType": "Protection Characters",
                 "MinEP": 900,
-                "MaxEP": 11600
+                "MaxEP": 11600,
+                "Tier": "A"
             },
             "Gobta5": {
                 "New": true,
@@ -656,7 +659,8 @@
                 "Trait1A": "HP - P-ATK UP (6★ Awaken x3): When 3 vanguard have 75% or more HP, increases all allies' P-ATK by 11% at start of turn (available in support formation)",
                 "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5): Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
                 "MinEP": 2085,
-                "MaxEP": 16223
+                "MaxEP": 16223,
+                "Tier": "B"
             },
             "Jiwu1": {
                 "New": true,
@@ -885,7 +889,8 @@
             "Trait1A": "HP - ATK UP (6★ Awaken x3):When 3 vanguard have 70% or lower HP, increases all allies' ATK by 9% at start of turn (available in support formation)",
             "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
             "MinEP": 2085,
-            "MaxEP": 16225
+            "MaxEP": 16225,
+            "Tier": "SSS"
         },
         "MilimAura4": {
             "New": true,
@@ -1120,7 +1125,8 @@
               "Trait1A": "HP - P-ATK UP (6★ Awaken x3):When 3 vanguard have 75% or more HP, increases all allies' physical ATK by 9% at start of turn (available in support formation)",
               "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
               "MinEP": 2085,
-              "MaxEP": 16223
+              "MaxEP": 16223,
+                "Tier": "A"
           },
           "Alice4": {
                "New": true,
@@ -1275,7 +1281,8 @@
                "Trait1A": "HP - DEF UP (6★ Awaken x3):When 3 vanguard have 75% or more HP, increases all allies' DEF by 9% at start of turn (available in support formation)",
                "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
                "MinEP": 2085,
-               "MaxEP": 16223
+               "MaxEP": 16223,
+                "Tier": "SS"
            },
            "Raphael3": {
                "New": true,
@@ -1552,7 +1559,8 @@
                    "Trait1A": "HP - DEF UP (6★ Awaken x3):When 3 vanguard have 75% or more HP, increases all allies' DEF by 9% at start of turn (available in support formation)",
                    "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
                    "MinEP": 2084,
-                   "MaxEP": 15720
+                   "MaxEP": 15720,
+                    "Tier": "SS"
                },
 
     "Milim17": {
@@ -1637,7 +1645,8 @@
         "Trait1A": "HP - M-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' magic ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2084,
-        "MaxEP": 15720
+        "MaxEP": 15720,
+        "Tier": "SS"
     },
     "Shinsha6": {
         "New": true,
@@ -1840,7 +1849,8 @@
         "Trait1A": "HP - P-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' P-ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2104,
-        "MaxEP": 15740
+        "MaxEP": 15740,
+        "Tier": "SS"
     },
     "Rimuru29": {
         "New": true,
@@ -1965,7 +1975,8 @@
         "Trait1": "Effect - Critical Resistance DOWN (5★ Awaken x1) :When 1 or more enemies are affected by Guard Rate UP, decreases all targets' critical resistance by 7% at start of turn (available in support formation)",
         "Trait1A": "Effect - Critical Resistance DOWN (5★ Awaken x3) :When 1 or more enemies are affected by Guard Rate UP, decreases all targets' critical resistance by 11% at start of turn (available in support formation)",
         "MinEP": 914,
-        "MaxEP": 11867
+        "MaxEP": 11867,
+        "Tier": "B"
     },
     "Geld3": {
         "New": true,
@@ -2136,7 +2147,8 @@
         "Trait1A": "HP - ATK UP (6★ Awaken x3) :When 1 or more vanguard have 70% or lower HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2085,
-        "MaxEP": 15721
+        "MaxEP": 15721,
+        "Tier": "SS"
     },
     "Momiji1": {
         "New": true,
@@ -2388,7 +2400,8 @@
         "Trait1A": "HP - DEF UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' DEF by 9% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2094,
-        "MaxEP": 15730
+        "MaxEP": 15730,
+        "Tier": "A"
     },
     "Luminus8": {
         "New": true,
@@ -2467,7 +2480,8 @@
         "Trait1": "Effect - ATK DOWN (5★ Awaken x1) :When 1 or more enemies are affected by ATK UP, decreases all targets' ATK by 5% at start of turn (available in support formation)",
         "Trait1A": "Effect - ATK DOWN (5★ Awaken x3) :When 1 or more enemies are affected by ATK UP, decreases all targets' ATK by 8% at start of turn (available in support formation)",
         "MinEP": 909,
-        "MaxEP": 11862
+        "MaxEP": 11862,
+        "Tier": "C"
     },
     "Rigur1": {
         "New": true,
@@ -2638,7 +2652,8 @@
         "Trait1A": "HP - P-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' P-ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2084,
-        "MaxEP": 15720
+        "MaxEP": 15720,
+        "Tier": "SS"
     },
     "Hinata6": {
         "New": true,
@@ -2890,7 +2905,8 @@
         "Trait1A": "HP - ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2085,
-        "MaxEP": 15721
+        "MaxEP": 15721,
+        "Tier": "SSS"
     },
     "Guy5": {
         "New": true,
@@ -3184,7 +3200,8 @@
         "Trait1A": "HP - ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2083,
-        "MaxEP": 15719
+        "MaxEP": 15719,
+        "Tier": "B"
     },
     "Diablo7": {
         "New": true,
@@ -3433,7 +3450,8 @@
         "Trait1A": "HP - P-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' P-ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2084,
-        "MaxEP": 15720
+        "MaxEP": 15720,
+        "Tier": "C"
     },
     "Shuna13": {
         "New": true,
@@ -3974,7 +3992,8 @@
         "Trait1A": "HP - P-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' P-ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2082,
-        "MaxEP": 15718
+        "MaxEP": 15718,
+        "Tier": "SS"
     },
     "Rimuru24": {
         "New": true,
@@ -4225,7 +4244,8 @@
         "Trait1A": "HP - M-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' magic ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2079,
-        "MaxEP": 15715
+        "MaxEP": 15715,
+        "Tier": "SS"
     },
     "Mirai1": {
         "New": true,
@@ -4556,7 +4576,8 @@
         "Trait1A": "HP - ATK UP (6★ Awaken x3) :When 1 or more vanguard have 70% or lower HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2079,
-        "MaxEP": 15715
+        "MaxEP": 15715,
+        "Tier": "SS"
     },
     "Violet3": {
         "New": true,
@@ -4782,7 +4803,8 @@
         "Trait1A": "HP - M-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' magic ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1988,
-        "MaxEP": 15624
+        "MaxEP": 15624,
+        "Tier": "A"
     },
     "Shinsha4": {
         "New": true,
@@ -5038,7 +5060,8 @@
         "Trait1A": "HP - DEF UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' DEF by 9% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1987,
-        "MaxEP": 15612
+        "MaxEP": 15612,
+        "Tier": "SS"
     },
     "Rimuru20": {
         "New": true,
@@ -5120,7 +5143,8 @@
         "Trait1": "Effect - ATK DOWN (5★ Awaken x1) :When 1 or more enemies are affected by ATK UP, decreases all targets' ATK by 5% at start of turn (available in support formation)",
         "Trait1A": "Effect - ATK DOWN (5★ Awaken x3) :When 1 or more enemies are affected by ATK UP, decreases all targets' ATK by 8% at start of turn (available in support formation)",
         "MinEP": 861,
-        "MaxEP": 11813
+        "MaxEP": 11813,
+        "Tier": "C"
     },
     "Youm2": {
         "New": true,
@@ -5296,7 +5320,8 @@
         "Trait1A": "HP - P-ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' P-ATK by 8% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1985,
-        "MaxEP": 15621
+        "MaxEP": 15621,
+        "Tier": "B"
     },
     "Milim13": {
         "New": true,
@@ -5602,7 +5627,8 @@
         "Trait1A": "HP - DEF DOWN (6★ Awaken x3) :When 1 or more vanguard have 70% or lower HP, decreases all targets' DEF by 12% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1984,
-        "MaxEP": 15620
+        "MaxEP": 15620,
+        "Tier": "A"
     },
     "Megumin1": {
         "New": true,
@@ -5858,7 +5884,8 @@
         "Trait1A": "HP - ATK UP (6★ Awaken x3) :When 3 vanguard have 75% or more HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1984,
-        "MaxEP": 15620
+        "MaxEP": 15620,
+        "Tier": "C"
     },
     "Shuna9": {
         "New": true,
@@ -6116,7 +6143,8 @@
         "Trait1A": "HP - Critical Damage UP (6★ Awaken x3) :When 1 or more vanguard have 70% or lower HP, increases all allies' critical damage by 14% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1986,
-        "MaxEP": 15622
+        "MaxEP": 15622,
+        "Tier": "B"
     },
     "Luminus5": {
         "New": true,
@@ -6420,7 +6448,8 @@
         "Trait1A": "HP - Critical Resistance DOWN (6★ Awaken x3):When 3 vanguard have 75% or more HP, decreases all targets' critical resistance by 9% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1985,
-        "MaxEP": 15621
+        "MaxEP": 15621,
+        "Tier": "B"
     },
     "Milim12": {
         "New": true,
@@ -6717,7 +6746,8 @@
         "Trait1A": "HP - ATK UP (6★ Awaken x3):When 1 or more vanguard have 70% or lower HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 1984,
-        "MaxEP": 15620
+        "MaxEP": 15620,
+        "Tier": "B"
     },
     "Rimuru15": {
         "New": true,
@@ -7060,7 +7090,8 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 1)",
         "Trait1A": "Charge - Concentrate (5★ Awaken x2):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 2)",
         "MinEP": 1983,
-        "MaxEP": 15166
+        "MaxEP": 15166,
+        "Tier": "C"
     },
     "Shion8": {
         "New": false,
@@ -7298,7 +7329,8 @@
         "Trait1": "Charge - Concentrate（First Time Only）:When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 1)",
         "Trait1A": "Charge - Concentrate（5★ Awaken x2）:When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 2)",
         "MinEP": 1985,
-        "MaxEP": 13191
+        "MaxEP": 13191,
+        "Tier": "S"
         },
     "Rimuru14": {
         "New": false,
@@ -7623,7 +7655,8 @@
         "Trait1": "HP - ATK UP (5★ Awaken x1):When 3 vanguard have 75% or more HP, increases all allies' ATK by 4% at start of turn (available in support formation)",
         "Trait1A": "HP - ATK UP (5★ Awaken x3):When 3 vanguard have 75% or more HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "MinEP": 1953,
-        "MaxEP": 13160
+        "MaxEP": 13160,
+        "Tier": "C"
     },
     "Benimaru7": {
         "New": false,
@@ -7973,7 +8006,8 @@
         "Trait1": "HP - ATK UP (5★ Awaken x1):When 1 or more enemies have 50% or lower HP, increases all allies' ATK by 4% at start of turn (available in support formation)",
         "Trait1A": "HP - ATK UP (5★ Awaken x3):When 1 or more enemies have 50% or lower HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "MinEP": 1952,
-        "MaxEP": 13159
+        "MaxEP": 13159,
+        "Tier": "S"
     },
     "Milim10": {
         "New": false,
@@ -8410,7 +8444,8 @@
         "Trait1": "HP - DEF DOWN (5★ Awaken x1):When 1 or more vanguard have 70% or lower HP, decreases all targets' DEF by 6% at start of turn (available in support formation)",
         "Trait1A": "HP - DEF DOWN (5★ Awaken x3):When 1 or more vanguard have 70% or lower HP, decreases all targets' DEF by 9% at start of turn (available in support formation)",
         "MinEP": 1944,
-        "MaxEP": 13151
+        "MaxEP": 13151,
+        "Tier": "C"
         },
     "Velzard2": {
         "New": false,
@@ -8687,7 +8722,8 @@
         "Trait1": "HP - Critical Resistance DOWN (5★ Awaken x1):When 3 vanguard have 75% or more HP, decreases all targets' critical resistance by 6% at start of turn (available in support formation)",
         "Trait1A": "HP - Critical Resistance DOWN (5★ Awaken x3):When 3 vanguard have 75% or more HP, decreases all targets' critical resistance by 9% at start of turn (available in support formation)",
         "MinEP": 1865,
-        "MaxEP": 13071
+        "MaxEP": 13071,
+        "Tier": "C"
         },
     "Shuna7": {
         "New": false,
@@ -9232,7 +9268,8 @@
         "Trait1": "HP - Pierce Resistance DOWN (5* Awaken x1):\n    When 3 vanguard have 75% or more HP, decreases all targets' pierce resistance by 6% at start of turn.",
         "Trait1A": "HP - Pierce Resistance DOWN (5* Awaken x3):\n    When 3 vanguard have 75% or more HP, decreases all targets' pierce resistance by 9% at start of turn.",
         "MinEP": 13107,
-        "MaxEP": 13107
+        "MaxEP": 13107,
+        "Tier": "C"
         },
     "Shinsha1": {
         "Name": "Shinsha [Precocious Bride]",
@@ -9842,7 +9879,8 @@
         "Trait1": "HP - DEF DOWN (5★ Awaken x1):When 3 vanguard have 75% or more HP, decreases all targets' DEF by 4% at start of turn (available in support formation)",
         "Trait1A": "HP - DEF DOWN (5★ Awaken x3):When 3 vanguard have 75% or more HP, decreases all targets' DEF by 6% at start of turn (available in support formation)",
         "MinEP": 1730,
-        "MaxEP": 14891
+        "MaxEP": 14891,
+        "Tier": "C"
         },
     "Benimaru2": {
         "New": false,
@@ -12277,7 +12315,8 @@
         "EXAbility2": "Light Blessing:Increases other troop members' following status in accordance with the number of light characters assigned to battle slots.             Increases HP by 64  Increases ATK by 18  Increases DEF by 18 ",
         "EP": 24760,
         "MinEP": 24760,
-        "MaxEP": 24760
+        "MaxEP": 24760,
+        "Tier": "C"
     },
     "Gobta2": {
         "New": false,
@@ -13208,7 +13247,8 @@
         "Trait1": "Effect - DEF DOWN (5* Awaken x1):\n    When 1 or more enemies are affected by Guard Rate UP, decreases all targets' DEF by 4% at start of turn.",
         "Trait1A": "Effect - DEF DOWN (5* Awaken x3):\n    When 1 or more enemies are affected by Guard Rate UP, decreases all targets' DEF by 6% at start of turn.",
         "MinEP": 12878,
-        "MaxEP": 12878
+        "MaxEP": 12878,
+        "Tier": "C"
     },
     "Ifrit1": {
         "New": false,
