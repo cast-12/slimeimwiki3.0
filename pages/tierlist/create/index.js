@@ -73,6 +73,7 @@ export default function Home({storage}) {
 		link.href = canvas.toDataURL();
 		link.click();
 	};
+	  
 	
 	const exportJSON = () => {
 		const blob = new Blob([JSON.stringify(tierList)], { type: "application/json" });
@@ -238,7 +239,7 @@ export default function Home({storage}) {
 					style={{ display: "none" }}
 				/>
 				</div>
-				<div ref={listRef} className="flex flex-col gap-1 bg-color1 rounded">
+				<div className="flex flex-col gap-1 bg-color1 rounded">
 				{
 						Object.keys(tierList).map((tier) => {
 							return (
