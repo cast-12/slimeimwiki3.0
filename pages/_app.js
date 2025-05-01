@@ -21,7 +21,7 @@ function Navbar() {
 		{ name: "Characters", href: "/characters" },
 		{ name: "Forces", href: "/forces" },
 		{ name: "Events", href: "/events" },
-		{ name: "Tier List", href: "/tierlist" },
+		{ name: "Tier List Maker", href: "/tierlist/create" },
 		// { name: "Gacha", href: "https://old.slimeim.wiki/gacha/" },
 		// { name: "Daily", href: "https://old.slimeim.wiki/daily/" },
 		// { name: "Tier List", href: "https://old.slimeim.wiki/tierlist/" },
