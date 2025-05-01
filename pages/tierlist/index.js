@@ -64,13 +64,31 @@ export default function Home({ storage }) {
 						borderBottomLeftRadius: "5px",
 						borderBottomRightRadius: "5px",
 					}}
-					text={
-						<div>
-							If you would like to make your own teirlist please click the link
-							https://slimeimwiki.vercel.app/tierlist/create
-						</div>
-					}
-				></TextBox>
+				>
+					<div>
+						If you would like to make your own tier list, click below:
+						<br />
+						<a
+							href="https://slimeimwiki.vercel.app/tierlist/create"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<button
+								style={{
+									marginTop: "10px",
+									border: "1px solid white",
+									padding: "6px 12px",
+									borderRadius: "4px",
+									backgroundColor: "#111",
+									color: "white",
+									cursor: "pointer",
+								}}
+							>
+								Go to Tier List Creator
+							</button>
+						</a>
+					</div>
+				</TextBox>
 				<Divider text={"Filters"} />
 				<SearchBar search={search} setSearch={setSearch}>
 					<Toggle
