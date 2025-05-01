@@ -3724,7 +3724,8 @@
         "Trait1A": "HP - Critical Damage UP (6★ Awaken x3) :When 1 or more vanguard have 70% or lower HP, increases all allies' critical damage by 14% at start of turn (available in support formation)",
         "GuidanceEnhancementTrait": "Enhance Guidance (6★ Awaken x5):Increases Divine Protection ATK and DEF effect by 5% and Supporting Divine Protection ATK effect by 5%",
         "MinEP": 2083,
-        "MaxEP": 15719
+        "MaxEP": 15719,
+        "Tier": "SSS"
     },
     "Ainz1": {
         "New": true,
