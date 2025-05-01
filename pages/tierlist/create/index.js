@@ -83,7 +83,7 @@ export default function Home({storage}) {
 		link.click();
 	};
 	
-	const importJSON = (e) => {
+	const importTierlist = (e) => {
 		const file = e.target.files[0];
 		const reader = new FileReader();
 		reader.onload = (event) => {
@@ -189,9 +189,9 @@ export default function Home({storage}) {
 				<FilterList filter={filter} setFilter={setFilter} />
 				<Divider text={"TIER LIST"} />
 				<div className="flex flex-wrap gap-2 p-2">
-				<button onClick={downloadPNG}>Download PNG</button>
-				<button onClick={exportJSON}>Export JSON</button>
-				<input type="file" accept=".json" onChange={importJSON} />
+				<button onClick={downloadPNG}>Download teirlist</button>
+				<button onClick={exportJSON}>Export teirlist</button>
+				<input type="file" accept=".json" onChange={importTierlist} />
 				</div>
 				<div ref={listRef} className="flex flex-col gap-1 bg-color1 rounded">
 				{
