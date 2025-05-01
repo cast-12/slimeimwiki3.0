@@ -189,17 +189,37 @@ export default function Home({storage}) {
 				<FilterList filter={filter} setFilter={setFilter} />
 				<Divider text={"TIER LIST"} />
 				<div className="flex flex-wrap gap-2 p-2">
-				<button onClick={downloadPNG}>Download teirlist</button>
-				<button onClick={exportJSON}>Export teirlist</button>
-				<label htmlFor="importTierlist" className="button">
-				Import Tier List
+				<button
+					onClick={downloadPNG}
+					style={{ border: "1px solid white", padding: "6px 12px", borderRadius: "4px" }}
+				>
+					Download PNG
+				</button>
+
+				<button
+					onClick={exportJSON}
+					style={{ border: "1px solid white", padding: "6px 12px", borderRadius: "4px" }}
+				>
+					Export Tier List
+				</button>
+
+				<label
+					htmlFor="importTierlist"
+					style={{
+					border: "1px solid white",
+					padding: "6px 12px",
+					borderRadius: "4px",
+					cursor: "pointer",
+					}}
+				>
+					Import Tier List
 				</label>
 				<input
-				id="importTierlist"
-				type="file"
-				accept=".json"
-				onChange={importTierlist}
-				style={{ display: "none" }}
+					id="importTierlist"
+					type="file"
+					accept=".json"
+					onChange={importTierlist}
+					style={{ display: "none" }}
 				/>
 				</div>
 				<div ref={listRef} className="flex flex-col gap-1 bg-color1 rounded">
