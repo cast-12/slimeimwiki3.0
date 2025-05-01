@@ -38,7 +38,8 @@
                 "EXAbility1": "",
                 "EXAbility2": "",
                 "MinEP": 5015,
-                "MaxEP": 36511
+                "MaxEP": 36511,
+                "Tier": "SSS"
             },
             "Violet6": {
                 "New": true,
@@ -718,7 +719,8 @@
             "EXAbility1": "Individual Mercy: Increases own following status when Frieren is assigned to a battle slot. Increases synergy power by 12%",
             "EXAbility2": "Magic Blessing: Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
             "MinEP": 5015,
-            "MaxEP": 36511
+            "MaxEP": 36511,
+            "Tier": "SSS"
         },
         "RaphaelFrieren1": {
             "New": true,
@@ -837,7 +839,8 @@
             "EXAbility1": "Individual Mercy: Increases own following status when Himmel is assigned to a battle slot. Increases synergy power by 12%",
             "EXAbility2": "Magic Blessing: Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
             "MinEP": 5015,
-            "MaxEP": 36511
+            "MaxEP": 36511,
+            "Tier": "SS"
         },
         "Himmel1": {
             "New": true,
@@ -1496,7 +1499,8 @@
             "EXAbility1": "Individual Mercy:Increases own following status when Shinsha is assigned to a battle slot. Increases pierce power by 12%",
             "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots. Increases HP by 96, ATK by 45, DEF by 26",
             "MinEP": 5016,
-            "MaxEP": 36512
+            "MaxEP": 36512,
+            "Tier": "SS"
         },
         "Guy6": {
                    "New": true,
@@ -1579,7 +1583,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Cliche is assigned to a battle slot.Increases pierce power by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 5015,
-        "MaxEP": 35512
+        "MaxEP": 35512,
+        "Tier": "SS"
     },
     "Emils1": {
         "New": true,
@@ -2570,7 +2575,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Hinata Sakaguchi is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Physical Blessing:Increases other troop members' following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4996,
-        "MaxEP": 35493
+        "MaxEP": 35493,
+        "Tier": "SS"
     },
     "Renard1": {
         "New": true,
@@ -3603,7 +3609,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Narberal Gamma is assigned to a battle slot.Increases critical damage by 8%",
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4993,
-        "MaxEP": 35490
+        "MaxEP": 35490,
+        "Tier": "SS"
     },
     "Albedo1": {
         "New": true,
@@ -3975,7 +3982,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Diablo is assigned to a battle slot.Increases critical damage by 4%Increases synergy power by 4%",
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4993,
-        "MaxEP": 35490
+        "MaxEP": 35490,
+        "Tier": "SS"
     },
     "Benimaru8": {
         "New": true,
@@ -4389,7 +4397,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 90Increases ATK by 40Increases DEF by 24",
         "MinEP": 4993,
-        "MaxEP": 35490
+        "MaxEP": 35490,
+        "Tier": "SS"
     },
     "Rimuru22": {
         "New": true,
@@ -4552,7 +4561,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases synergy power by 8%",
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4993,
-        "MaxEP": 35490
+        "MaxEP": 35490,
+        "Tier": "SS"
     },
     "Rimuru21": {
         "New": true,
@@ -5030,7 +5040,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Youm is assigned to a battle slot.Increases guard power by 6%Increases counter power by 6%",
         "EXAbility2": "Magic Blessing:Increases other troop members' following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 108Increases ATK by 28Increases DEF by 60",
         "MinEP": 4810,
-        "MaxEP": 35249
+        "MaxEP": 35249,
+        "Tier": "SS"
     },
     "Albis3": {
         "New": true,
@@ -9461,7 +9472,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4751,
-        "MaxEP": 34205
+        "MaxEP": 34205,
+        "Tier": "SSS"
         },
     "Milim3": {
         "New": false,
