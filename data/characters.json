@@ -2556,7 +2556,7 @@
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4995,
         "MaxEP": 35492,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Shizue9": {
         "New": true,
@@ -3103,7 +3103,7 @@
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4995,
         "MaxEP": 35492,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Jaune2": {
         "New": true,
@@ -3769,7 +3769,7 @@
         "EXAbility2": "Magic Mercy:Increases own following status in accordance with the number of magic attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4993,
         "MaxEP": 35490,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Narberal1": {
         "New": true,
@@ -5342,7 +5342,7 @@
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4808,
         "MaxEP": 35305,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Ramiris4": {
         "New": true,
@@ -6466,7 +6466,7 @@
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4801,
         "MaxEP": 35298,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Rimuru16": {
         "New": true,
@@ -6502,7 +6502,7 @@
         "Trait1A": "HP - DEF UP (5★ Awaken x3):When 3 vanguard have max HP, increases all allies' DEF by 15% at start of turn (available in support formation)",
         "MinEP": 2327,
         "MaxEP": 16531,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Souei5": {
         "New": true,
@@ -6631,7 +6631,7 @@
         "EXAbility2": "Physical Mercy:Increases own following status in accordance with the number of physical attack characters assigned to battle slots.Increases HP by 360Increases ATK by 180Increases DEF by 104",
         "MinEP": 4805,
         "MaxEP": 35302,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Albis2": {
         "New": true,
@@ -7108,7 +7108,7 @@
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4777,
         "MaxEP": 34236,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Suphia2": {
         "Name": "Suphia [Cooking Challenger]",
@@ -8502,7 +8502,7 @@
         "EXAbility2": "Earth Mercy:Increases own following status in accordance with the number of earth characters assigned to battle slots.Increases HP by 256Increases ATK by 72Increases DEF by 72",
         "MinEP": 6471,
         "MaxEP": 37145,
-        "Teir": "B"
+        "Tier": "B"
         },
     "Misery1": {
         "Name": "Misery [The Green Progenitor]",
@@ -11240,7 +11240,7 @@
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 6507,
         "MaxEP": 37174,
-        "Teir": "B"
+        "Tier": "B"
     },
     "Treyni1": {
         "New": false,
