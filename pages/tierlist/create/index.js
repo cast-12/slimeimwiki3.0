@@ -191,7 +191,16 @@ export default function Home({storage}) {
 				<div className="flex flex-wrap gap-2 p-2">
 				<button onClick={downloadPNG}>Download teirlist</button>
 				<button onClick={exportJSON}>Export teirlist</button>
-				<input type="file" accept=".json" onChange={importTierlist} />
+				<label htmlFor="importTierlist" className="button">
+				Import Tier List
+				</label>
+				<input
+				id="importTierlist"
+				type="file"
+				accept=".json"
+				onChange={importTierlist}
+				style={{ display: "none" }}
+				/>
 				</div>
 				<div ref={listRef} className="flex flex-col gap-1 bg-color1 rounded">
 				{
