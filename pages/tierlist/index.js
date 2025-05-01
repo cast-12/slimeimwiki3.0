@@ -66,8 +66,8 @@ export default function Home({ storage }) {
 					}}
 					text={
 						<div>
-							Please be aware that not all characters have been
-							assigned their appropriate <b>weapons</b>.
+							If you would like to make your own teirlist please click the link
+							https://slimeimwiki.vercel.app/tierlist/create
 						</div>
 					}
 				></TextBox>
