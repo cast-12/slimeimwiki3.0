@@ -60,7 +60,7 @@
                 "MaxDef": 2944,
                 "MinOutput": 60,
                 "MaxOutput": 150,
-                "Town1": "Digsite for Defense Magigems +30%",
+                "Town1": "Digsite for Defense Magigems +10%",
                 "Town2": "Ice Cream Cart +10%",
                 "Forces": [6, 26, 27, 34],
                 "SecretType": "All",
@@ -6904,8 +6904,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shion is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4795,
-        "MaxEP": 34253,
-        "Tier": "SS"
+        "MaxEP": 34253
     },
     "Shinsha3": {
         "New": false,
@@ -6952,8 +6951,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Shion is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Blessing:Increases other troop members' following status in accordance with the number of space characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4779,
-        "MaxEP": 34237,
-        "Tier": "SSS"
+        "MaxEP": 34237
     },
     "Ramiris3": {
         "New": false,
@@ -6989,8 +6987,7 @@
         "Trait1": "Charge - Concentrate (First Time Only):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 1)",
         "Trait1A": "Charge - Concentrate (5★ Awaken x2):When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 2)",
         "MinEP": 1983,
-        "MaxEP": 15166,
-        "Tier": "SS"
+        "MaxEP": 15166
     },
     "Shion8": {
         "New": false,
@@ -7038,8 +7035,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Suphia is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Space Mercy:Increases own following status in accordance with the number of space characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4777,
-        "MaxEP": 34236,
-        "Tier": "SS"
+        "MaxEP": 34236
     },
     "Suphia2": {
         "Name": "Suphia [Cooking Challenger]",
@@ -7095,7 +7091,6 @@
         "EP": 27255,
         "MinEP": 2403,
         "MaxEP": 27255,
-        "Tier": "B",
         "Release": "1/31/2023",
         "Forces": [
             19
@@ -7146,8 +7141,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Light Mercy:Increases own following status in accordance with the number of light characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4770,
-        "MaxEP": 29770,
-        "Tier": "SS"
+        "MaxEP": 29770
     },
     "Milim11": {
         "New": false,
@@ -7194,8 +7188,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Light Blessing:Increases other troop members' following status in accordance with the number of light characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4772,
-        "MaxEP": 29771,
-        "Tier": "SS"
+        "MaxEP": 29771
     },
     "Shuna8": {
         "New": false,
@@ -7231,9 +7224,8 @@
         "Trait1": "Charge - Concentrate（First Time Only）:When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 1)",
         "Trait1A": "Charge - Concentrate（5★ Awaken x2）:When you use souls while 1 or more enemy characters have a secret skill gauge with 100% or more filled, the single-target attack damage resistance of all allies is increased by 30% (Turns: 1; Uses by this character per battle: 2)",
         "MinEP": 1985,
-        "MaxEP": 13191,
-        "Tier": "SSS"
-    },
+        "MaxEP": 13191
+        },
     "Rimuru14": {
         "New": false,
         "Octagram": false,
@@ -7279,8 +7271,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Soka is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Light Mercy:Increases own following status in accordance with the number of light characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4786,
-        "MaxEP": 29786,
-        "Tier": "SS"
+        "MaxEP": 29786
     },
     "Soka2": {
         "New": false,
@@ -7337,7 +7328,6 @@
         "EP": 23693.5,
         "MinEP": 2404,
         "MaxEP": 23693,
-        "Tier": "B",
         "Release": "12/29/2022",
         "Forces": [
             20
@@ -7384,8 +7374,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Fire Mercy:Increases own following status in accordance with the number of fire characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4761,
-        "MaxEP": 29761,
-        "Tier": "SS"
+        "MaxEP": 29761
     },
     "Shizue4": {
         "New": false,
@@ -7432,8 +7421,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Fire Blessing:Increases other troop members' following status in accordance with the number of fire characters assigned to battle slots.Increases HP by 45Increases ATK by 20Increases DEF by 12",
         "MinEP": 4752,
-        "MaxEP": 29751,
-        "Tier": "S"
+        "MaxEP": 29751
     },
     "Violet1": {
         "New": false,
@@ -7480,8 +7468,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Hiiro is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Fire Mercy:Increases own following status in accordance with the number of fire characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4777,
-        "MaxEP": 29777,
-        "Tier": "SSS"
+        "MaxEP": 29777
     },
     "Deeno2": {
         "New": false,
@@ -7528,8 +7515,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases guard power by 8%",
         "EXAbility2": "Water Mercy:Increases own following status in accordance with the number of water characters assigned to battle slots.Increases HP by 216Increases ATK by 60Increases DEF by 120",
         "MinEP": 6491,
-        "MaxEP": 37160,
-        "Tier": "S"
+        "MaxEP": 37160
     },
     "Towa1": {
         "New": false,
@@ -7563,8 +7549,7 @@
         "Trait1": "HP - ATK UP (5★ Awaken x1):When 3 vanguard have 75% or more HP, increases all allies' ATK by 4% at start of turn (available in support formation)",
         "Trait1A": "HP - ATK UP (5★ Awaken x3):When 3 vanguard have 75% or more HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "MinEP": 1953,
-        "MaxEP": 13160,
-        "Tier": "SSS"
+        "MaxEP": 13160
     },
     "Benimaru7": {
         "New": false,
@@ -7610,8 +7595,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Hiiro is assigned to a battle slot.Increases pierce power by 4%",
         "EXAbility2": "Fire Mercy:Increases own following status in accordance with the number of fire characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4773,
-        "MaxEP": 29773,
-        "Tier": "SS"
+        "MaxEP": 29773
     },
     "Hiiro1": {
         "New": false,
@@ -7668,7 +7652,6 @@
         "EP": 23697.5,
         "MinEP": 2408,
         "MaxEP": 23697,
-        "Tier": "B",
         "Release": "11/25/2022",
         "Forces": [
             31
@@ -7730,7 +7713,6 @@
         "EP": 23664.5,
         "MinEP": 2375,
         "MaxEP": 23664,
-        "Tier": "B",
         "Forces": [
             32
         ]
@@ -7779,9 +7761,8 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Dark Mercy:Increases own following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4752,
-        "MaxEP": 29752,
-        "Tier": "S"
-    },
+        "MaxEP": 29752
+        },
     "Shinsha2": {
         "New": false,
         "Octagram": false,
@@ -7825,8 +7806,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Izis is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Dark Mercy:Increases own following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4775,
-        "MaxEP": 29774,
-        "Tier": "SS"
+        "MaxEP": 29774
     },
     "Izis1": {
         "Name": "Izis [Mirror Queen]",
@@ -7920,8 +7900,7 @@
         "Trait1": "HP - ATK UP (5★ Awaken x1):When 1 or more enemies have 50% or lower HP, increases all allies' ATK by 4% at start of turn (available in support formation)",
         "Trait1A": "HP - ATK UP (5★ Awaken x3):When 1 or more enemies have 50% or lower HP, increases all allies' ATK by 6% at start of turn (available in support formation)",
         "MinEP": 1952,
-        "MaxEP": 13159,
-        "Tier": "SS"
+        "MaxEP": 13159
     },
     "Milim10": {
         "New": false,
@@ -7969,8 +7948,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Rimuru Tempest is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Dark Mercy:Increases own following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4773,
-        "MaxEP": 29772,
-        "Tier": "SSS"
+        "MaxEP": 29772
     },
     "Rimuru12": {
         "New": false,
@@ -8019,8 +7997,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.Increases critical damage by 4%",
         "EXAbility2": "Dark Mercy:Increases own following status in accordance with the number of dark characters assigned to battle slots.Increases HP by 180Increases ATK by 90Increases DEF by 52",
         "MinEP": 4775,
-        "MaxEP": 29774,
-        "Tier": "SSS"
+        "MaxEP": 29774
     },
     "Clayman1": {
         "New": false,
@@ -8065,8 +8042,7 @@
         "EXAbility1": "Individual Mercy:Increases own following status when Milim Nava is assigned to a battle slot.             Increases counter power by 8% ",
         "EXAbility2": "Earth Mercy:Increases own following status in accordance with the number of earth characters assigned to battle slots.             Increases HP by 216  Increases ATK by 60  Increases DEF by 120 ",
         "MinEP": 4741,
-        "MaxEP": 29739,
-        "Tier": "A"
+        "MaxEP": 29739
     },
     "Adalman1": {
         "New": false,

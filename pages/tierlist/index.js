@@ -32,7 +32,14 @@ export default function Home({ storage }) {
 		filter: filter,
 		setFilter: setFilter,
 		AlternateCharacterIcon: AlternateCharacterIcon,
+		confirmFunction: (id) => {
+			const date = characters[id]?.Release;
+			if (!date) return true;
+			const year = parseInt(date.split("/")[2]);
+			return year > 2022;
+		}
 	};
+	
 
 	return (
 		<>
