@@ -1418,7 +1418,7 @@
                 "Skill1": "War God's Reflex Lv.1/Lv.10: Decreases all targets' all attribute resistance by 70% (Turns: 1)Decreases all targets' weakness resistance by 30% (Turns: 1). Cost: 90",
                 "Skill1Icon": "/images/IcSkill_016_09_3_M.png",
                 "Skill2": "Hero's Triumph Lv.1/Lv.10: Changes Divine General Force characters' souls x1 into Soul of SkillsIncreases Divine General Force characters' skill point increase for all souls until the end of battle by 30% (Unlimited). Cost: 15",
-                "Skill2Icon": "/images/IcSkill_042_15_3_M #3915998.png",
+                "Skill2Icon": "/images/IIcSkill_042_15_3_M #3915998.png",
                 "UnitType": "Battle Characters",
                 "Valor1": "Counter Focus (Initial Conditions):When you activate a soul combo, increases own counterattack rate by 10% (Turns: 1; Uses per battle: 1)",
                 "Valor1A": "Counter Focus (5★ Awaken x2):When you activate a soul combo, increases own counterattack rate by 15% (Turns: 1; Uses per battle: 2)",
