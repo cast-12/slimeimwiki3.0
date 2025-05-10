@@ -1536,7 +1536,7 @@
             "Secret": "Ground Zero Lv.MAX:Unleashes a single-target space magic attack for 250% normal damageIncreases weakness strike of Antagonist Force characters including rearguard until the end of battle by 60% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
             "EXSecret": "Ground Zero Lv.MAX:Unleashes a single-target space magic attack for 250% normal damageIncreases weakness strike of Antagonist Force characters including rearguard until the end of battle by 120% (Unlimited)Use 200% of secret skill gauge to change to EX Soul of Combos: Weakness Strike effect amount x2",
             "Skill1": "Mirror Surge Lv.1/Lv.10:Increases own critical rate by 50% (Turns: 1) and increases all allies' guard penetration by 20% (Turns: 1). Cost: 50",
-            "Skill1Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/skill_placeholder_3.png",
+            "Skill1Icon": "/images/IcSkill_031_21_3_M.png",
             "Skill2": "Reflective Burst Lv.1/Lv.10:Changes Soul of Divine Protection x2 into Soul of Combos. Increases Soul of Combos' gauge increase by 20% (Turns: 1). Cost: 30",
             "Skill2Icon": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/skill_placeholder_4.png",
             "UnitType": "Battle Characters",
