@@ -1,10 +1,400 @@
 {
+    "(Important) 3/3 Update Notice": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000558?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "Epic EP Extravaganza: Azure Sea Overlord": {
+        "Start": "3/2/2026",
+        "End": "3/27/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002946?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/1f155995332c08295deefc6225f02ee6.png",
+        "Octagram": false
+    },
+    "Emperor & Hero Rates 15% 5★ EX Guaranteed Redux Ticket Recruit": {
+        "Start": "2/28/2026",
+        "End": "4/7/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000931?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Recruit",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/4d11a206013a4d38cc93f5632c3afc1e.png",
+        "Octagram": false
+    },
+    "Emperor & Hero Attribute Unbound Showcase Redux Recruit": {
+        "Start": "2/28/2026",
+        "End": "3/8/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000929?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Recruit",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/18749c12e71204a85675d81ae8091563.png",
+        "Octagram": false
+    },
+    "Emperor & Hero Attribute Unbound Showcase Redux Recruit Pack": {
+        "Start": "2/28/2026",
+        "End": "3/8/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000359?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/44be89d6632eaaa9a74f5e7f66cc717a.png",
+        "Octagram": false
+    },
+    "Troop Recruit: Azure Sea Harbinger Part 1": {
+        "Start": "2/27/2026",
+        "End": "3/27/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000918?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Recruit",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/bdc22b2ad68d92d700b8036656619bdc.png",
+        "Octagram": false
+    },
+    "Azure Sea Harbinger Part 1 New Character Featured Free Choice Ticket Pack": {
+        "Start": "2/27/2026",
+        "End": "3/27/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000350?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/cd58336b95c10f502b66134dde4052ac.png",
+        "Octagram": false
+    },
+    "1 Week Only: 5★ EX Guaranteed All-Star Recruit Ticket Included Magicrystal Packs": {
+        "Start": "2/27/2026",
+        "End": "3/6/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000349?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/d75c321db8809e9ed9a818057c077b84.png",
+        "Octagram": false
+    },
+    "Azure Sea Harbinger": {
+        "Start": "2/27/2026",
+        "End": "3/27/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002943?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/d902d557debc40d8bcc8f02309391e45.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 2/27 Update) Beginner Recommended Character Distribution Event": {
+        "Start": "10/17/2026",
+        "End": "1/27/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4811002824?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/0c3752a3e1ed4b6933453fd5b288ea8a.png",
+        "Octagram": false
+    },
+    "Gobta, the Hobgoblin of Gallantry's Beatdown Battle": {
+        "Start": "2/27/2026",
+        "End": "3/27/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002941?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/b5763ad247b7c3d18c15963130a0ec7c.png",
+        "Octagram": false
+    },
+    "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea Premiere Campaign": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000970?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_campaign.png",
+        "Octagram": false
+    },
+    "EX Enhancement and Attribute Unbound Enhancement for Existing Characters": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000962?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "Main Story Chapter 31 Release": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000958?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/827eb5bb6c0a57ae3295985bcfea26ca.png",
+        "Octagram": false
+    },
+    "Epitaph of Fate Super Isekai Revelry Part 3 Premium Ticket Recruit": {
+        "Start": "2/13/2026",
+        "End": "3/13/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000928?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Recruit",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/238123a94cec68771e573bd7721c7832.png",
+        "Octagram": false
+    },
+    "Troop Recruit: Epitaph of Fate Super Isekai Revelry Part 3": {
+        "Start": "2/13/2026",
+        "End": "3/13/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000915?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Recruit",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/17ca16e70857bedea6d1afbbd0a389a6.png",
+        "Octagram": false
+    },
+    "Epitaph of Fate Super Isekai Revelry Part 3 Special Recruit Packs": {
+        "Start": "2/13/2026",
+        "End": "3/13/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000358?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/a964a00f63c5056251005c9efc8420d0.png",
+        "Octagram": false
+    },
+    "Tempest Hero's Jubilee: Dragonoid": {
+        "Start": "2/13/2026",
+        "End": "2/24/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002922?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/7d0f71b7f91abe2ce428e3be52389d38.png",
+        "Octagram": false
+    },
+    "[Important] Request to Set Up Two-Factor Authentication for Bandai Namco ID": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000552?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "Troop Recruit: Epitaph of Fate Super Isekai Revelry Part 2": {
+        "Start": "2/6/2026",
+        "End": "3/6/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000908?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Recruit",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/42a5b1cce24edfb68cecae948e102e71.png",
+        "Octagram": false
+    },
+    "10 Million Downloads! Epitaph of Fate Part 2 New Character Featured Free Choice Ticket Pack": {
+        "Start": "2/6/2026",
+        "End": "3/6/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000343?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/05a24e21d9ebe0b56d078ef26bc778c8.png",
+        "Octagram": false
+    },
+    "Royal Valor Cup Season 40": {
+        "Start": "2/6/2026",
+        "End": "3/13/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/300230291?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/6b5d21d417b5c46f37ad7c743946271c.png",
+        "Octagram": false
+    },
+    "Tempest Million Festival 2 available!": {
+        "Start": "1/23/2026",
+        "End": "3/20/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000945?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/e7c96b2ada444c2cff6c72ebb4f48da7.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 11/28 Update) New Feature \"Heartscape\" Kick-Start Event": {
+        "Start": "11/28/2026",
+        "End": "3/31/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4811002808?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/8ce7102a035014e20236623758465719.png",
+        "Octagram": false
+    },
+    "Heartscape Bingo Missions": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/610009301?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_event.png",
+        "Octagram": false
+    },
+    "(Important) About Shared Purchase Limits for In-App and External Purchases": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000511?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "Regarding Google Play Points": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000482?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 6/27 Update) Get Magicrystal from Mission Rewards! Account Linking Release": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000819?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/36e92dbf2bb163ac8e7b6bbb8db4343e.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 10/17 Update) First Time Only Sale": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000214?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_campaign.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 10/17 Update) Packs for Beginners": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000213?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Campaign",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_campaign.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 11/7 (Fri) Update) How to Enjoy the Valor Cup": {
+        "Start": "1/15/2026",
+        "End": "1/15/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/300240115?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/0326324a41a8033502e620dece24379e.png",
+        "Octagram": false
+    },
+    "Notice Regarding Graphics Settings and Restoring Data": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000215?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "(7:00 UTC 3/3 Update) Issue Causing Unexpected Error to Appear and Prevent Login": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000538?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "(3:00 UTC 2/26 Update) Currently Ongoing Issues": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000161?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 2/20 Update) Currently Ongoing Issues": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000160?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "(9:00 UTC 2/13 Update) Currently Ongoing Issues": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000159?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "(5:00 UTC 10/17 Update) Currently Ongoing Issues": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000145?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "(9:00 UTC 10/9 Update) Issue Affecting Beatdown Battle: Conqueror's Reminiscence": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000511?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "Issue Affecting Beatdown Battle: Conqueror's Reminiscence": {
+        "Start": "3/3/2026",
+        "End": "3/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000508?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
     "(2:00 UTC 4/28 Update) 3.5th Anniversary: 35 Rewards Grand Giveback Campaign": {
         "Start": "4/27/2025",
         "End": "4/27/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000814?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Campaign",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_campaign.png",
         "Octagram": false
@@ -12,9 +402,9 @@
     "Mythic Avatars Super Isekai Revelry Redux Recruit": {
         "Start": "4/28/2025",
         "End": "5/12/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000771?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Recruit",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/e866bf2a1d840e23e1c9674db6c36030.png",
         "Octagram": false
@@ -22,9 +412,9 @@
     "Mythic Avatars Redux Recruit Packs": {
         "Start": "4/28/2025",
         "End": "5/12/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000255?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Campaign",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/2935d7a4123c0f295100874eb2776d5c.png",
         "Octagram": false
@@ -32,9 +422,9 @@
     "Redux Event: Gazel, the Avatar of War's Beatdown Battle": {
         "Start": "4/28/2025",
         "End": "5/12/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4811002514?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/53a29db236f6e6a413f4d91532803b0f.png",
         "Octagram": false
@@ -42,9 +432,9 @@
     "Valor Cup Season 30 Ranking Battle Velzard Cup": {
         "Start": "4/28/2025",
         "End": "5/5/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/300230271?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/45bca24ee868d031c816b6b0b57c4d27.png",
         "Octagram": false
@@ -52,9 +442,9 @@
     "(Preview) 4/28 ~ 5/2 New Content Information": {
         "Start": "4/27/2025",
         "End": "4/27/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000803?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
         "Octagram": false
@@ -72,7 +462,7 @@
     "Troop Recruit: 3.5th Anniversary Super Isekai Revelry Part 2": {
         "Start": "4/25/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000768?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Recruit",
@@ -82,7 +472,7 @@
     "3.5th Anniversary Super Isekai Revelry Part 2 Premium Ticket Recruit": {
         "Start": "4/25/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000763?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Recruit",
@@ -92,7 +482,7 @@
     "3.5th Anniversary Magicrystal Sale": {
         "Start": "4/25/2025",
         "End": "5/16/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000254?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -102,7 +492,7 @@
     "3.5th Anniversary Super Isekai Revelry Part 2 Special Recruit Packs": {
         "Start": "4/25/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000253?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -112,7 +502,7 @@
     "May the Spirit Queen Bless You!": {
         "Start": "4/25/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002658?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -122,7 +512,7 @@
     "Rigurd's National Development": {
         "Start": "4/25/2025",
         "End": "5/7/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002695?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -132,7 +522,7 @@
     "3.5th Anniversary Special Quest": {
         "Start": "4/25/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002686?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -142,7 +532,7 @@
     "Ritus, the Holy Knight of Water's Beatdown Battle": {
         "Start": "4/25/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002682?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -162,7 +552,7 @@
     "3.5th Anniversary 100 Million Magicrystals Gift Campaign!": {
         "Start": "4/25/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000797?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -172,7 +562,7 @@
     "Supporting Divine Protection from Protection Characters Enhanced!": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000801?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -182,7 +572,7 @@
     "Octagram Bazaar Character Attribute Unbound Released - Full Reveal!": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000800?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -192,7 +582,7 @@
     "(9:00 UTC 4/24 Update) EX Enhancement and Attribute Unbound Enhancement for Existing Characters": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000799?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -202,7 +592,7 @@
     "New \"Aegis\" Battle Feature": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000462?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Update",
@@ -212,7 +602,7 @@
     "(Important) 4/23 Update Notice": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000460?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Update",
@@ -222,7 +612,7 @@
     "Five Times Only: x10 All 5★ or Higher Characters Guaranteed & One or More 5★ EX Character Guaranteed Recruit": {
         "Start": "4/18/2025",
         "End": "4/28/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000751?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Recruit",
@@ -232,7 +622,7 @@
     "3.5th Anniversary 5★ EX Free Choice Ticket Packs": {
         "Start": "4/18/2025",
         "End": "4/28/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000251?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -242,7 +632,7 @@
     "(9:00 UTC 4/21 Update) Conquest: Calamity": {
         "Start": "4/19/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4831002670?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -252,7 +642,7 @@
     "(2:00 UTC 4/18 Update) Conquest: Calamity": {
         "Start": "4/18/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4811002670?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -262,7 +652,7 @@
     "EX Character Growth Support Quest": {
         "Start": "4/18/2025",
         "End": "4/18/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002672?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -272,7 +662,7 @@
     "Troop Recruit: 3.5th Anniversary Super Isekai Revelry Part 1": {
         "Start": "4/11/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000752?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Recruit",
@@ -282,7 +672,7 @@
     "3.5th Anniversary Super Isekai Revelry Part 1 Special Recruit Packs": {
         "Start": "4/11/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000252?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -302,7 +692,7 @@
     "3.5th Anniversary Draconic Challenge": {
         "Start": "4/11/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002660?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -312,7 +702,7 @@
     "3.5th Anniversary Content Information": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000798?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -322,7 +712,7 @@
     "Addition of Skill Fusion to Distributed Battle Characters": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000787?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -332,7 +722,7 @@
     "Google Play Games (PC Version) Campaign": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000457?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -342,7 +732,7 @@
     "(2:00 UTC 4/11 Update) Free for the First Month! Monthly Passes": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000357?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -352,7 +742,7 @@
     "Valor Cup Season 30": {
         "Start": "4/7/2025",
         "End": "5/5/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/300230270?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -362,7 +752,7 @@
     "Account Linking Mission Added": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000782?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -372,7 +762,7 @@
     "Troop Recruit: Kurenai Blossom": {
         "Start": "3/28/2025",
         "End": "5/7/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000736?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Recruit",
@@ -382,7 +772,7 @@
     "Kurenai Blossom Special Recruit Packs": {
         "Start": "3/28/2025",
         "End": "5/7/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000247?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -402,7 +792,7 @@
     "(2:00 UTC 2/14 Update) 3rd Anniversary Campaign": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000760?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -413,17 +803,17 @@
         "Start": "4/26/2025",
         "End": "4/26/2025",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000436?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000436?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
-        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/b8da7ad0247510106661e117a689e60e.png",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
         "Octagram": false
     },
     "(0:50 UTC 12/20 Update) Chamber of Memories and Contracts": {
-        "Start": "10/13/2025",
-        "End": "10/13/2025",
+        "Start": "10/13/2026",
+        "End": "10/13/2026",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4841004006?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001004006?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/f100c2bf4e64f343d0f5e21a6e6662d0.png",
@@ -432,7 +822,7 @@
     "(2:00 UTC 12/1 Update) Training Enhancement Packs": {
         "Start": "11/1/2025",
         "End": "11/1/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000215?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -442,7 +832,7 @@
     "(2:00 UTC 12/26 Update) How to Enjoy the Valor Cup": {
         "Start": "1/15/2025",
         "End": "1/15/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/300240115?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -452,7 +842,7 @@
     "(2:00 UTC 12/20 Update) Octagram Bazaar Lineup Details": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/182000009?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -460,10 +850,10 @@
         "Octagram": true
     },
     "Loup Loupe Floor 60 Unlocked!": {
-        "Start": "1/20/2025",
-        "End": "1/20/2025",
+        "Start": "1/20/2026",
+        "End": "1/20/2026",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4100026006?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4100026006?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/6ef24f28a58f80320a0bdf9254c059ae.png",
@@ -472,9 +862,9 @@
     "(15:35 UTC 4/25 Update) Currently Ongoing Issues": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000127?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Issues",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
         "Octagram": false
@@ -482,7 +872,7 @@
     "Notice Regarding Inquiries Received During Golden Week": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000461?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -492,7 +882,7 @@
     "(9:00 UTC 4/16 Update) Issue Affecting Three Per Day Bonus Recruit": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000463?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -502,7 +892,7 @@
     "(4:15 UTC 4/15 Update) Issue Affecting Parts of Main Story": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000464?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -512,7 +902,7 @@
     "(11:20 UTC 3/28 Update) Issue with Troop Recruit: Kurenai Blossom": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000456?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -522,7 +912,7 @@
     "(10:00 UTC 3/19 Update) Issue Affecting Tempest Hero's Jubilee: Seal Releaser": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000454?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -532,7 +922,7 @@
     "Issue Affecting the 3rd Anniversary Medal Bazaar": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000445?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -542,7 +932,7 @@
     "Issue With Kurobe, the Immobile Black Ogre": {
         "Start": "4/26/2025",
         "End": "4/26/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000442?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -622,7 +1012,7 @@
         "Start": "11/6/2024",
         "End": "11/6/2024",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000387?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000387?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
@@ -955,7 +1345,7 @@
     "(2:00 UTC 10/28 Update) Crucible": {
         "Start": "10/28/2024",
         "End": "10/28/2024",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4101004009?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -1324,7 +1714,7 @@
     "First Time Only Sale": {
         "Start": "10/18/2024",
         "End": "10/18/2024",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000214?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -1797,7 +2187,7 @@
         "Start": "9/27/2024",
         "End": "9/27/2024",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000371?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000371?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
@@ -2613,7 +3003,7 @@
         "Start": "9/11/2024",
         "End": "9/11/2024",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000380?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000380?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
@@ -2656,9 +3046,9 @@
     "Tempest Fest": {
         "Start": "4/28/2025",
         "End": "5/7/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000796?region=1&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/57662c97571fc268491940de155b0965.png",
         "Octagram": false,
@@ -2679,7 +3069,7 @@
         "Start": "8/20/2024",
         "End": "8/20/2024",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000357?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000357?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/3a93a17bcdb5b5be985a588ce0ca03d2.png",
@@ -3985,13 +4375,13 @@
         ]
     },
     "Magicrystal Sale": {
-        "Start": "9/9/2024",
-        "End": "9/17/2024",
-        "Current": false,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000198?region=1&language=2&phoneType=1",
+        "Start": "11/30/2026",
+        "End": "11/30/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000314?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
-        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/bb81df552b4e3e49fa50f501b7496404.png",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/4531893c41a86f96d6e160cfd9816ebc.png",
         "Octagram": false,
         "Banner": []
     },
@@ -5091,10 +5481,10 @@
         ]
     },
     "Dragon Sphere Analysis": {
-        "Start": "4/26/2025",
-        "End": "4/26/2025",
+        "Start": "4/26/2026",
+        "End": "4/26/2026",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/3100000000001?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/3100000000001?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/34c1892a4adab42027cd694847d45cd4.png",
@@ -5179,10 +5569,10 @@
         "Banner": []
     },
     "Chancellor Union": {
-        "Start": "4/24/2025",
-        "End": "4/24/2025",
+        "Start": "4/24/2026",
+        "End": "4/24/2026",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000614?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000614?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/95ac9c0ef4f5e9e3fb393c7dbefc16f7.png",
@@ -5603,7 +5993,7 @@
     "(2:00 UTC 4/5 Update) Training Enhancement Packs": {
         "Start": "4/7/2025",
         "End": "4/7/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000093?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -6432,7 +6822,7 @@
         "Start": "2/27/2024",
         "End": "2/27/2024",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000595?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000595?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_campaign.png",
@@ -6805,7 +7195,7 @@
         "Start": "2/8/2024",
         "End": "2/8/2024",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000279?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000279?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
@@ -7754,7 +8144,7 @@
         "Start": "12/20/2023",
         "End": "12/20/2023",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000180?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000180?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Update",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_update.png",
@@ -7922,11 +8312,11 @@
     "Free for the First Month! Monthly Passes": {
         "Start": "12/11/2023",
         "End": "12/11/2023",
-        "Current": false,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000357?region=1&language=2&phoneType=1",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000357?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
-        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/07dd131592151dc18777edaf41dbbae0.png",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/23e0939e499573b0085a81e2ed6a058a.png",
         "Octagram": false,
         "Banner": []
     },
@@ -8871,7 +9261,7 @@
         "Start": "10/30/2023",
         "End": "10/30/2023",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000546?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000546?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
@@ -8961,7 +9351,7 @@
         "Start": "10/27/2023",
         "End": "10/27/2023",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000270?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000270?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_campaign.png",
@@ -9390,7 +9780,7 @@
     "Packs for Beginners": {
         "Start": "10/13/2023",
         "End": "10/13/2023",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000213?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -9834,7 +10224,7 @@
         "Start": "9/27/2023",
         "End": "9/27/2023",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000527?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000527?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
@@ -9931,7 +10321,7 @@
     "Notice Regarding Google Play Points": {
         "Start": "9/21/2023",
         "End": "9/21/2023",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000209?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -10008,11 +10398,11 @@
         ]
     },
     "Kaijin's Excavation Corps": {
-        "Start": "11/1/2024",
-        "End": "11/5/2024",
-        "Current": false,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002539?region=1&language=2&phoneType=1",
-        "New": false,
+        "Start": "3/2/2026",
+        "End": "3/9/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002947?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/8cb36ba175fabba5e00ccbd81b020712.png",
         "Octagram": false,
@@ -10678,7 +11068,7 @@
     "Notice Regarding Restoring Data": {
         "Start": "8/8/2023",
         "End": "8/8/2023",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000215?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
@@ -11599,7 +11989,7 @@
     "Chancellor Rookie Support Campaign": {
         "Start": "4/11/2025",
         "End": "5/30/2025",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000783?region=1&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -11717,10 +12107,10 @@
         "Banner": []
     },
     "(2:00 UTC 6/19 Update) Conquest: Prime is here!": {
-        "Start": "4/28/2025",
-        "End": "4/28/2025",
+        "Start": "4/28/2026",
+        "End": "4/28/2026",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4811002176?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4811002176?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/1f1f12d250772fe1756951a0f150af1e.png",
@@ -12877,7 +13267,7 @@
         "Start": "4/25/2023",
         "End": "4/25/2023",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000172?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000172?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/44570502ef2ca489beed79d03a71cfb6.png",
@@ -13762,7 +14152,7 @@
         "Banner": []
     },
     "(Important) Countermeasures Against Fraudulent Acts": {
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000073?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000073?region=3&language=2&phoneType=1&assetVersion=",
         "Start": "3/11/2023",
         "End": "3/11/2023",
         "Current": true,
@@ -13773,7 +14163,7 @@
         "Banner": []
     },
     "One Million Preregistrations Achieved": {
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000012?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000012?region=3&language=2&phoneType=1&assetVersion=",
         "Start": "3/11/2023",
         "End": "3/11/2023",
         "Current": true,
@@ -13969,7 +14359,7 @@
         "End": "3/3/2023",
         "Banner": [],
         "Type": "Notice",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000381?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000381?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -14000,7 +14390,7 @@
         "Start": "3/2/2023",
         "End": "3/2/2023",
         "Banner": [],
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000259?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000259?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Type": "Notice",
@@ -14133,7 +14523,7 @@
         ],
         "Type": "Notice",
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000350?region=1&language=2&phoneType=1&assetVersion=",
-        "Current": true,
+        "Current": false,
         "New": false,
         "Octagram": false
     },
@@ -14653,7 +15043,7 @@
         "End": "2/1/2023",
         "Banner": [],
         "Type": "Notice",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000340?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000340?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -14715,11 +15105,11 @@
     },
     "Loup Loupe Floor 55 Unlocked!": {
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/7178a5379ff1fea7deda9906c768fa16.png",
-        "Start": "1/31/2025",
-        "End": "1/31/2025",
+        "Start": "1/31/2026",
+        "End": "1/31/2026",
         "Banner": [],
         "Type": "Event",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4100026005?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4100026005?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -14885,7 +15275,7 @@
         "End": "1/17/2023",
         "Banner": [],
         "Type": "Notice",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000146?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000146?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -15079,8 +15469,8 @@
             "Milim1"
         ],
         "Type": "Notice",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/182000009?region=1&language=2&phoneType=1",
-        "Current": false,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/182000009?region=3&language=2&phoneType=1&assetVersion=",
+        "Current": true,
         "New": false,
         "Octagram": true
     },
@@ -15717,7 +16107,7 @@
         "End": "11/25/2022",
         "Banner": [],
         "Type": "Campaign",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000304?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000304?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -15951,7 +16341,7 @@
         "End": "11/11/2022",
         "Banner": [],
         "Type": "Notice",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000284?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000284?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -16250,7 +16640,7 @@
         "End": "10/27/2022",
         "Banner": [],
         "Type": "Maintenance",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/600000017?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/600000017?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -16290,7 +16680,7 @@
         "End": "10/27/2022",
         "Banner": [],
         "Type": "Update",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000253?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000253?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -16954,7 +17344,7 @@
         "End": "9/15/2022",
         "Banner": [],
         "Type": "Event",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000208?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000208?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -17751,7 +18141,7 @@
         "End": "7/25/2022",
         "Banner": [],
         "Type": "Notice",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000105?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000105?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
@@ -18866,11 +19256,11 @@
     },
     "Loup Loupe is here!": {
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/4c895d6f72c6e347caa6f4c4864b22c2.png",
-        "Start": "3/30/2025",
-        "End": "3/30/2025",
+        "Start": "3/30/2026",
+        "End": "3/30/2026",
         "Banner": [],
         "Type": "Event",
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4100016002?region=1&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4100016002?region=3&language=2&phoneType=1&assetVersion=",
         "Current": true,
         "New": false,
         "Octagram": false
