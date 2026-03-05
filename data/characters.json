@@ -1,11 +1,11 @@
 {
-         "masked": {
+         "Masked5": {
                 "New": true,
                 "Octagram": false,
                 "Release": "4/25/2025",
                 "Name": "Masked Hero [Veiled Armaments]",
-                "Icon": "/images/2aMasked Hero.png",
-                "Art": "/images/2bMasked Hero.png",
+                "Icon": "/images/2aMaskedHero.png",
+                "Art": "/images/2bMaskedHero.png",
                 "Types": [
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/b407d1d68c95de41c4c62ba80c1c780e.png",
                     "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/93043b256fe14bed62ba553498ab9f0f.png"
