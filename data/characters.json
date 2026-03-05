@@ -1,9 +1,9 @@
 {
-            "Shuna16": {
+              "Masked6": {
                 "New": true,
                 "Octagram": false,
-                "Release": "3/27/2025",
-                "Name": "Shuna [Oracle Commander]",
+                "Release": "4/25/2025",
+                "Name": "Masked Hero [Veiled Armaments]",
                 "Icon": "/images/ZBase2Shuna.png",
                 "Art": "/images/4 Shuna.png",
                 "Types": [
@@ -37,7 +37,7 @@
                 "MaxEP": 16223,
                 "Tier": "SSS"
             },
-               "Blanc6": {
+            "Blanc6": {
                 "New": true,
                 "Octagram": false,
                 "Release": "4/11/2025",
