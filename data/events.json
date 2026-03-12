@@ -1,10 +1,140 @@
 {
+    "(5:00 UTC 3/12 Update) Issue Causing Unexpected Error Message": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000545?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "(9:30 UTC 3/11 Update) Issue with Royal Valor Cup Ranking Battle": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000543?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "Notice Regarding Prohibited Activities During Gameplay": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000559?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "(Preview) 3/13 ~ 3/16 New Content Information": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000965?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "(Important) 3/10 Update Notice": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000564?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Notice",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
+        "Octagram": false
+    },
+    "Troop Recruit: Azure Sea Harbinger Part 2": {
+        "Start": "3/6/2026",
+        "End": "4/3/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000921?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Recruit",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/c48d5fedc2e2914a16afbced3c2e22a5.png",
+        "Octagram": false
+    },
+    "(2:00 UTC 3/6 Update) Epic EP Extravaganza: Azure Sea Overlord": {
+        "Start": "3/2/2026",
+        "End": "3/27/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4811002946?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/1f155995332c08295deefc6225f02ee6.png",
+        "Octagram": false
+    },
+    "Octagram Emblem Ceremony: Worldmaker": {
+        "Start": "3/6/2026",
+        "End": "3/23/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002945?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/040c4da7510718a4a67260a7d1bc892a.png",
+        "Octagram": false
+    },
+    "Royal Valor Cup Season 40 Ranking Battle: Myulan Cup": {
+        "Start": "3/6/2026",
+        "End": "3/13/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/300230292?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/b4f28d721f756eea7493b09c076587dd.png",
+        "Octagram": false
+    },
+    "Tempest Million Festival 2: Winning Numbers Announcement!": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/100000952?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_event.png",
+        "Octagram": false
+    },
+    "(9:00 UTC 3/5 Update) Kaijin's Excavation Corps": {
+        "Start": "3/2/2026",
+        "End": "3/16/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002947?region=3&language=2&phoneType=1&assetVersion=",
+        "New": false,
+        "Type": "Event",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/8cb36ba175fabba5e00ccbd81b020712.png",
+        "Octagram": false
+    },
+    "(1:30 UTC 3/12 Update) Currently Ongoing Issues": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000164?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
+    "(10:00 UTC 3/11 Update) Issue Affecting Flashback Crystal Bazaar": {
+        "Start": "3/12/2026",
+        "End": "3/12/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000544?region=3&language=2&phoneType=1&assetVersion=",
+        "New": true,
+        "Type": "Issues",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_bug.png",
+        "Octagram": false
+    },
     "(Important) 3/3 Update Notice": {
         "Start": "3/3/2026",
         "End": "3/3/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/700000558?region=3&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Notice",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/announcement/icon_info.png",
         "Octagram": false
@@ -12,9 +142,9 @@
     "Epic EP Extravaganza: Azure Sea Overlord": {
         "Start": "3/2/2026",
         "End": "3/27/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002946?region=3&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/1f155995332c08295deefc6225f02ee6.png",
         "Octagram": false
@@ -32,7 +162,7 @@
     "Emperor & Hero Attribute Unbound Showcase Redux Recruit": {
         "Start": "2/28/2026",
         "End": "3/8/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000929?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Recruit",
@@ -42,7 +172,7 @@
     "Emperor & Hero Attribute Unbound Showcase Redux Recruit Pack": {
         "Start": "2/28/2026",
         "End": "3/8/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000359?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -70,10 +200,10 @@
         "Octagram": false
     },
     "1 Week Only: 5★ EX Guaranteed All-Star Recruit Ticket Included Magicrystal Packs": {
-        "Start": "2/27/2026",
-        "End": "3/6/2026",
+        "Start": "3/6/2026",
+        "End": "3/13/2026",
         "Current": true,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000349?region=3&language=2&phoneType=1&assetVersion=",
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000357?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/d75c321db8809e9ed9a818057c077b84.png",
@@ -172,7 +302,7 @@
     "Tempest Hero's Jubilee: Dragonoid": {
         "Start": "2/13/2026",
         "End": "2/24/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002922?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
@@ -192,7 +322,7 @@
     "Troop Recruit: Epitaph of Fate Super Isekai Revelry Part 2": {
         "Start": "2/6/2026",
         "End": "3/6/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/500000908?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Recruit",
@@ -202,7 +332,7 @@
     "10 Million Downloads! Epitaph of Fate Part 2 New Character Featured Free Choice Ticket Pack": {
         "Start": "2/6/2026",
         "End": "3/6/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/400000343?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Campaign",
@@ -322,7 +452,7 @@
     "(7:00 UTC 3/3 Update) Issue Causing Unexpected Error to Appear and Prevent Login": {
         "Start": "3/3/2026",
         "End": "3/3/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/900000538?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -332,7 +462,7 @@
     "(3:00 UTC 2/26 Update) Currently Ongoing Issues": {
         "Start": "3/3/2026",
         "End": "3/3/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000161?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -342,7 +472,7 @@
     "(2:00 UTC 2/20 Update) Currently Ongoing Issues": {
         "Start": "3/3/2026",
         "End": "3/3/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000160?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -352,7 +482,7 @@
     "(9:00 UTC 2/13 Update) Currently Ongoing Issues": {
         "Start": "3/3/2026",
         "End": "3/3/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/910000159?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Issues",
@@ -10400,9 +10530,9 @@
     "Kaijin's Excavation Corps": {
         "Start": "3/2/2026",
         "End": "3/9/2026",
-        "Current": true,
+        "Current": false,
         "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002947?region=3&language=2&phoneType=1&assetVersion=",
-        "New": true,
+        "New": false,
         "Type": "Event",
         "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/8cb36ba175fabba5e00ccbd81b020712.png",
         "Octagram": false,
@@ -11698,13 +11828,13 @@
         "Banner": []
     },
     "Corridor of Awakening": {
-        "Start": "10/4/2024",
-        "End": "10/15/2024",
-        "Current": false,
-        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002508?region=1&language=2&phoneType=1",
+        "Start": "3/9/2026",
+        "End": "3/20/2026",
+        "Current": true,
+        "Link": "https://api-us.ten-sura-m.wfs.games/web/announcement/4001002959?region=3&language=2&phoneType=1&assetVersion=",
         "New": false,
         "Type": "Event",
-        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/74562ef50f5f42729a8a9ffaabaed763.png",
+        "Image": "https://ten-sura-m-assets-us.akamaized.net/web-assets/images/edb0ff09a90275b020ea8efde919a514.png",
         "Octagram": false,
         "Banner": []
     },
